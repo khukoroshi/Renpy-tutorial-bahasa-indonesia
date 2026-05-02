@@ -196,7 +196,7 @@ translate indonesian tutorial_positions_6745825f:
 translate indonesian tutorial_positions_64428a07:
 
     # e "Setting yalign is similar, except along the y-axis."
-    e ""
+    e "Pengaturan yalign serupa, hanya saja di sepanjang sumbu-y."
 
 # game/tutorial_atl.rpy:379
 translate indonesian tutorial_positions_cfb77d42:

@@ -3,742 +3,743 @@
 # game/tutorial_screen_displayables.rpy:3
 translate indonesian screen_displayables_7c897a6d:
 
-    # e "There are quite a few screen displayables. Here, I'll tell you about some of the most important ones."
-    e ""
+    # e "Ada cukup banyak displayable layar. Di sini, aku akan memberitahumu tentang beberapa yang paling penting."
+    e "Ada cukup banyak displayable layar. Di sini, aku akan memberitahumu tentang beberapa yang paling penting."
 
 # game/tutorial_screen_displayables.rpy:11
 translate indonesian screen_displayables_menu_fef7b441:
 
-    # e "What would you like to know about?" nointeract
-    e "" nointeract
+    # e "Apa yang ingin kamu ketahui?" nointeract
+    e "Apa yang ingin kamu ketahui?" nointeract
 
 # game/tutorial_screen_displayables.rpy:49
 translate indonesian screen_displayable_properties_76c5639a:
 
-    # e "There are a few properties that every screen language displayable shares. Here, I'll demonstrate them for you."
-    e ""
+    # e "Ada beberapa properti yang dimiliki oleh setiap displayable bahasa layar. Di sini, aku akan mendemonstrasikannya untukmu."
+    e "Ada beberapa properti yang dimiliki oleh setiap displayable bahasa layar. Di sini, aku akan mendemonstrasikannya untukmu."
 
 # game/tutorial_screen_displayables.rpy:57
 translate indonesian screen_displayable_properties_527d4b4e:
 
-    # e "First off, every screen language displayable supports the position properties. When the container a displayable is in supports it, you can use properties like align, anchor, pos, and so so on."
-    e ""
+    # e "Pertama-tama, setiap displayable bahasa layar mendukung properti posisi. Ketika wadah tempat displayable berada mendukungnya, kamu bisa menggunakan properti seperti align, anchor, pos, dan sebagainya."
+    e "Pertama-tama, setiap displayable bahasa layar mendukung properti posisi. Ketika wadah tempat displayable berada mendukungnya, kamu bisa menggunakan properti seperti align, anchor, pos, dan sebagainya."
 
 # game/tutorial_screen_displayables.rpy:69
 translate indonesian screen_displayable_properties_8aff26dd:
 
-    # e "The at property applies a transform to the displayable, the same way the at clause in the show statement does."
-    e ""
+    # e "Properti at menerapkan transformasi ke displayable, dengan cara yang sama seperti klausa at dalam pernyataan show."
+    e "Properti at menerapkan transformasi ke displayable, dengan cara yang sama seperti klausa at dalam pernyataan show."
 
 # game/tutorial_screen_displayables.rpy:106
 translate indonesian screen_displayable_properties_2ed40a70:
 
-    # e "The id property is mostly used with the say screen, which is used to show dialogue. Outside of the say screen, it isn't used much."
-    e ""
+    # e "Properti id sebagian besar digunakan pada layar say, yang digunakan untuk menampilkan dialog. Di luar layar say, properti ini tidak banyak digunakan."
+    e "Properti id sebagian besar digunakan pada layar say, yang digunakan untuk menampilkan dialog. Di luar layar say, properti ini tidak banyak digunakan."
 
 # game/tutorial_screen_displayables.rpy:108
 translate indonesian screen_displayable_properties_da5733d1:
 
-    # e "It tells Ren'Py which displayables are the background window, 'who' is speaking, and 'what' is being said. This used to apply per-Character styles, and help with auto-forward mode."
-    e ""
+    # e "Ini memberi tahu Ren'Py displayable mana yang merupakan jendela latar belakang, 'siapa' yang berbicara, dan 'apa' yang dikatakan. Ini digunakan untuk menerapkan gaya per-Karakter, dan membantu mode auto-forward."
+    e "Ini memberi tahu Ren'Py displayable mana yang merupakan jendela latar belakang, 'siapa' yang berbicara, dan 'apa' yang dikatakan. Ini digunakan untuk menerapkan gaya per-Karakter, dan membantu mode auto-forward."
 
 # game/tutorial_screen_displayables.rpy:123
 translate indonesian screen_displayable_properties_cc09fade:
 
-    # e "The style property lets you specify the style of a single displayable."
-    e ""
+    # e "Properti style memungkinkanmu menentukan gaya untuk satu displayable."
+    e "Properti style memungkinkanmu menentukan gaya untuk satu displayable."
 
 # game/tutorial_screen_displayables.rpy:144
 translate indonesian screen_displayable_properties_a7f4e25c:
 
-    # e "The style_prefix property sets the prefix of the style that's used for a displayable and its children."
-    e ""
+    # e "Properti style_prefix menetapkan awalan gaya yang digunakan untuk sebuah displayable dan anak-anaknya."
+    e "Properti style_prefix menetapkan awalan gaya yang digunakan untuk sebuah displayable dan anak-anaknya."
 
 # game/tutorial_screen_displayables.rpy:146
 translate indonesian screen_displayable_properties_6bdb0723:
 
-    # e "For example, when the style_prefix property is 'green', the vbox has the 'green_vbox' style, and the text in it has the 'green_text' style."
-    e ""
+    # e "Sebagai contoh, ketika properti style_prefix adalah 'green', vbox akan memiliki gaya 'green_vbox', dan teks di dalamnya akan memiliki gaya 'green_text'."
+    e "Sebagai contoh, ketika properti style_prefix adalah 'green', vbox akan memiliki gaya 'green_vbox', dan teks di dalamnya akan memiliki gaya 'green_text'."
 
 # game/tutorial_screen_displayables.rpy:150
 translate indonesian screen_displayable_properties_8a3a8635:
 
-    # e "There are a few more properties than these, and you can find the rest in the documentation. But these are the ones you can expect to see in your game, in the default screens."
-    e ""
+    # e "Ada beberapa properti lagi selain ini, dan kamu bisa menemukan sisanya di dokumentasi. Tapi inilah yang bisa kamu harapkan untuk dilihat di game kamu, di layar default."
+    e "Ada beberapa properti lagi selain ini, dan kamu bisa menemukan sisanya di dokumentasi. Tapi inilah yang bisa kamu harapkan untuk dilihat di game kamu, di layar default."
 
 # game/tutorial_screen_displayables.rpy:156
 translate indonesian add_displayable_ec121c5c:
 
-    # e "Sometimes you'll have a displayable, like an image, that you want to add to a screen."
-    e ""
+    # e "Terkadang kamu akan memiliki displayable, seperti gambar, yang ingin kamu tambahkan ke layar."
+    e "Terkadang kamu akan memiliki displayable, seperti gambar, yang ingin kamu tambahkan ke layar."
 
 # game/tutorial_screen_displayables.rpy:165
 translate indonesian add_displayable_7ec3e2b0:
 
-    # e "This can be done using the add statement, which adds an image or other displayable to the screen."
-    e ""
+    # e "Ini dapat dilakukan menggunakan pernyataan add, yang menambahkan gambar atau displayable lainnya ke layar."
+    e "Ini dapat dilakukan menggunakan pernyataan add, yang menambahkan gambar atau displayable lainnya ke layar."
 
 # game/tutorial_screen_displayables.rpy:167
 translate indonesian add_displayable_7112a377:
 
-    # e "There are a few ways to refer to the image. If it's in the images directory or defined with the image statement, you can just put the name inside a quoted string."
-    e ""
+    # e "Ada beberapa cara untuk merujuk ke gambar. Jika gambarnya ada di direktori images atau didefinisikan dengan pernyataan image, kamu cukup menaruh namanya di dalam string yang dikutip."
+    e "Ada beberapa cara untuk merujuk ke gambar. Jika gambarnya ada di direktori images atau didefinisikan dengan pernyataan image, kamu cukup menaruh namanya di dalam string yang dikutip."
 
 # game/tutorial_screen_displayables.rpy:176
 translate indonesian add_displayable_8ba81c26:
 
-    # e "An image can also be referred to by its filename, relative to the game directory." id add_displayable_8ba81c26
-    e "" id add_displayable_8ba81c26
+    # e "Sebuah gambar juga dapat dirujuk melalui nama filenya, relatif terhadap direktori game." id add_displayable_8ba81c26
+    e "Sebuah gambar juga dapat dirujuk melalui nama filenya, relatif terhadap direktori game." id add_displayable_8ba81c26
 
 # game/tutorial_screen_displayables.rpy:185
 translate indonesian add_displayable_1f5571e3:
 
-    # e "Other displayables can also be added using the add statement. Here, we add the Solid displayable, showing a solid block of color."
-    e ""
+    # e "Displayable lain juga dapat ditambahkan menggunakan pernyataan add. Di sini, kita menambahkan displayable Solid, yang menampilkan blok warna solid."
+    e "Displayable lain juga dapat ditambahkan menggunakan pernyataan add. Di sini, kita menambahkan displayable Solid, yang menampilkan blok warna solid."
 
 # game/tutorial_screen_displayables.rpy:195
 translate indonesian add_displayable_0213ffa2:
 
-    # e "In addition to the displayable, the add statement can be given transform properties. These can place or otherwise transform the displayable being added."
-    e ""
+    # e "Selain displayable, pernyataan add dapat diberikan properti transformasi. Ini dapat menempatkan atau mentransformasi displayable yang ditambahkan."
+    e "Selain displayable, pernyataan add dapat diberikan properti transformasi. Ini dapat menempatkan atau mentransformasi displayable yang ditambahkan."
 
 # game/tutorial_screen_displayables.rpy:207
 translate indonesian add_displayable_3a56a464:
 
-    # e "Of course, the add statement can also take the at property, letting you give it a more complex transform."
-    e ""
+    # e "Tentu saja, pernyataan add juga dapat mengambil properti at, memungkinkanmu memberinya transformasi yang lebih kompleks."
+    e "Tentu saja, pernyataan add juga dapat mengambil properti at, memungkinkanmu memberinya transformasi yang lebih kompleks."
 
 # game/tutorial_screen_displayables.rpy:222
 translate indonesian text_displayable_96f88225:
 
-    # e "The screen language text statement adds a text displayable to the screen. It takes one argument, the text to be displayed."
-    e ""
+    # e "Pernyataan text bahasa layar menambahkan displayable teks ke layar. Ini mengambil satu argumen, yaitu teks yang akan ditampilkan."
+    e "Pernyataan text bahasa layar menambahkan displayable teks ke layar. Ini mengambil satu argumen, yaitu teks yang akan ditampilkan."
 
 # game/tutorial_screen_displayables.rpy:224
 translate indonesian text_displayable_1ed1a8c2:
 
-    # e "In addition to the common properties that all displayables take, text takes the text style properties. For example, size sets the size of the text."
-    e ""
+    # e "Selain properti umum yang diambil oleh semua displayable, teks mengambil properti gaya teks. Misalnya, size menetapkan ukuran teks."
+    e "Selain properti umum yang diambil oleh semua displayable, teks mengambil properti gaya teks. Misalnya, size menetapkan ukuran teks."
 
 # game/tutorial_screen_displayables.rpy:234
 translate indonesian text_displayable_9351d9dd:
 
-    # e "The text displayable can also interpolate values enclosed in square brackets."
-    e ""
+    # e "Displayable teks juga dapat menginterpolasi nilai yang diapit dalam kurung siku."
+    e "Displayable teks juga dapat menginterpolasi nilai yang diapit dalam kurung siku."
 
 # game/tutorial_screen_displayables.rpy:236
 translate indonesian text_displayable_32d76ccb:
 
-    # e "When text is displayed in a screen using the text statement, variables defined in the screen take precedence over those defined outside it." id text_displayable_32d76ccb
-    e "" id text_displayable_32d76ccb
+    # e "Ketika teks ditampilkan di layar menggunakan pernyataan text, variabel yang didefinisikan di dalam layar lebih diprioritaskan daripada variabel yang didefinisikan di luar layar." id text_displayable_32d76ccb
+    e "Ketika teks ditampilkan di layar menggunakan pernyataan text, variabel yang didefinisikan di dalam layar lebih diprioritaskan daripada variabel yang didefinisikan di luar layar." id text_displayable_32d76ccb
 
 # game/tutorial_screen_displayables.rpy:238
 translate indonesian text_displayable_7e84a5d1:
 
-    # e "Those variables may be parameters given to the screen, defined with the default or python statements, or set using the SetScreenVariable action."
-    e ""
+    # e "Variabel-variabel tersebut mungkin berupa parameter yang diberikan ke layar, didefinisikan dengan pernyataan default atau python, atau diatur menggunakan aksi SetScreenVariable."
+    e "Variabel-variabel tersebut mungkin berupa parameter yang diberikan ke layar, didefinisikan dengan pernyataan default atau python, atau diatur menggunakan aksi SetScreenVariable."
 
 # game/tutorial_screen_displayables.rpy:247
 translate indonesian text_displayable_8bc866c4:
 
-    # e "There's not much more to say about text in screens, as it works the same way as all other text in Ren'Py."
-    e ""
+    # e "Tidak banyak lagi yang bisa dikatakan tentang teks di layar, karena cara kerjanya sama dengan semua teks lain di Ren'Py."
+    e "Tidak banyak lagi yang bisa dikatakan tentang teks di layar, karena cara kerjanya sama dengan semua teks lain di Ren'Py."
 
 # game/tutorial_screen_displayables.rpy:255
 translate indonesian layout_displayables_d75efbae:
 
-    # e "The layout displayables take other displayables and lay them out on the screen."
-    e ""
+    # e "Displayable tata letak mengambil displayable lain dan menyusunnya di layar."
+    e "Displayable tata letak mengambil displayable lain dan menyusunnya di layar."
 
 # game/tutorial_screen_displayables.rpy:269
 translate indonesian layout_displayables_9a15144d:
 
-    # e "For example, the hbox displayable takes its children and lays them out horizontally."
-    e ""
+    # e "Sebagai contoh, displayable hbox mengambil anak-anaknya dan menyusunnya secara horizontal."
+    e "Sebagai contoh, displayable hbox mengambil anak-anaknya dan menyusunnya secara horizontal."
 
 # game/tutorial_screen_displayables.rpy:284
 translate indonesian layout_displayables_48eff197:
 
-    # e "The vbox displayable is similar, except it takes its children and arranges them vertically."
-    e ""
+    # e "Displayable vbox serupa, hanya saja ia mengambil anak-anaknya dan menyusunnya secara vertikal."
+    e "Displayable vbox serupa, hanya saja ia mengambil anak-anaknya dan menyusunnya secara vertikal."
 
 # game/tutorial_screen_displayables.rpy:286
 translate indonesian layout_displayables_74de8a66:
 
-    # e "Both of the boxes take the box style properties, the most useful of which is spacing, the amount of space to leave between children."
-    e ""
+    # e "Kedua kotak tersebut mengambil properti gaya kotak, yang paling berguna adalah spacing, yaitu jumlah ruang yang tersisa di antara anak-anak."
+    e "Kedua kotak tersebut mengambil properti gaya kotak, yang paling berguna adalah spacing, yaitu jumlah ruang yang tersisa di antara anak-anak."
 
 # game/tutorial_screen_displayables.rpy:301
 translate indonesian layout_displayables_a156591f:
 
-    # e "The grid displayable displays its children in a grid of equally-sized cells. It takes two arguments, the number of columns and the number of rows."
-    e ""
+    # e "Displayable grid menampilkan anak-anaknya dalam kisi-kisi sel berukuran sama. Ini mengambil dua argumen, jumlah kolom dan jumlah baris."
+    e "Displayable grid menampilkan anak-anaknya dalam kisi-kisi sel berukuran sama. Ini mengambil dua argumen, jumlah kolom dan jumlah baris."
 
 # game/tutorial_screen_displayables.rpy:303
 translate indonesian layout_displayables_126f5816:
 
-    # e "The grid has to be full, or Ren'Py will produce an error. Notice how in this example, the empty cell is filled with a null."
-    e ""
+    # e "Grid harus penuh, atau Ren'Py akan menghasilkan kesalahan. Perhatikan bagaimana dalam contoh ini, sel yang kosong diisi dengan null."
+    e "Grid harus penuh, atau Ren'Py akan menghasilkan kesalahan. Perhatikan bagaimana dalam contoh ini, sel yang kosong diisi dengan null."
 
 # game/tutorial_screen_displayables.rpy:305
 translate indonesian layout_displayables_bfaaaf9b:
 
-    # e "Like the boxes, grid uses the spacing property to specify the space between cells."
-    e ""
+    # e "Seperti kotak, grid menggunakan properti spacing untuk menentukan jarak antar sel."
+    e "Seperti kotak, grid menggunakan properti spacing untuk menentukan jarak antar sel."
 
 # game/tutorial_screen_displayables.rpy:321
 translate indonesian layout_displayables_3e931106:
 
-    # e "Grid also takes the transpose property, to make it fill top-to-bottom before it fills left-to-right."
-    e ""
+    # e "Grid juga mengambil properti transpose, untuk membuatnya terisi dari atas ke bawah sebelum terisi dari kiri ke kanan."
+    e "Grid juga mengambil properti transpose, untuk membuatnya terisi dari atas ke bawah sebelum terisi dari kiri ke kanan."
 
 # game/tutorial_screen_displayables.rpy:338
 translate indonesian layout_displayables_afdc1b11:
 
-    # e "And just to demonstrate that all cells are equally-sized, here's what happens when once child is bigger than the others."
-    e ""
+    # e "Dan hanya untuk mendemonstrasikan bahwa semua sel berukuran sama, inilah yang terjadi ketika satu anak lebih besar dari yang lain."
+    e "Dan hanya untuk mendemonstrasikan bahwa semua sel berukuran sama, inilah yang terjadi ketika satu anak lebih besar dari yang lain."
 
 # game/tutorial_screen_displayables.rpy:353
 translate indonesian layout_displayables_a23e2826:
 
-    # e "The fixed displayable displays the children using Ren'Py's normal placement algorithm. This lets you place displayables anywhere in the screen."
-    e ""
+    # e "Displayable fixed menampilkan anak-anak menggunakan algoritma penempatan normal Ren'Py. Ini memungkinkanmu menempatkan displayable di mana saja di layar."
+    e "Displayable fixed menampilkan anak-anak menggunakan algoritma penempatan normal Ren'Py. Ini memungkinkanmu menempatkan displayable di mana saja di layar."
 
 # game/tutorial_screen_displayables.rpy:355
 translate indonesian layout_displayables_fd3926ca:
 
-    # e "By default, the layout expands to fill all the space available to it. To prevent that, we use the xsize and ysize properties to set its size in advance."
-    e ""
+    # e "Secara default, tata letak akan melebar untuk mengisi semua ruang yang tersedia baginya. Untuk mencegahnya, kita menggunakan properti xsize dan ysize untuk mengatur ukurannya terlebih dahulu."
+    e "Secara default, tata letak akan melebar untuk mengisi semua ruang yang tersedia baginya. Untuk mencegahnya, kita menggunakan properti xsize dan ysize untuk mengatur ukurannya terlebih dahulu."
 
 # game/tutorial_screen_displayables.rpy:369
 translate indonesian layout_displayables_eff42786:
 
-    # e "When a non-layout displayable is given two or more children, it's not necessary to create a fixed. A fixed is automatically added, and the children are added to it."
-    e ""
+    # e "Ketika displayable non-tata letak diberikan dua atau lebih anak, tidak perlu membuat fixed. Fixed akan ditambahkan secara otomatis, dan anak-anak akan ditambahkan ke dalamnya."
+    e "Ketika displayable non-tata letak diberikan dua atau lebih anak, tidak perlu membuat fixed. Fixed akan ditambahkan secara otomatis, dan anak-anak akan ditambahkan ke dalamnya."
 
 # game/tutorial_screen_displayables.rpy:384
 translate indonesian layout_displayables_c32324a7:
 
-    # e "Finally, there's one convenience to save space. When many displayables are nested, adding a layout to each could cause crazy indent levels."
-    e ""
+    # e "Terakhir, ada satu kemudahan untuk menghemat ruang. Ketika banyak displayable disarangkan, menambahkan tata letak ke masing-masing bisa menyebabkan tingkat indentasi yang gila."
+    e "Terakhir, ada satu kemudahan untuk menghemat ruang. Ketika banyak displayable disarangkan, menambahkan tata letak ke masing-masing bisa menyebabkan tingkat indentasi yang gila."
 
 # game/tutorial_screen_displayables.rpy:386
 translate indonesian layout_displayables_d7fa0f28:
 
-    # e "The has statement creates a layout, and then adds all further children of its parent to that layout. It's just a convenience to make screens more readable."
-    e ""
+    # e "Pernyataan has membuat tata letak, dan kemudian menambahkan semua anak selanjutnya dari induknya ke tata letak tersebut. Ini hanyalah kemudahan untuk membuat layar lebih mudah dibaca."
+    e "Pernyataan has membuat tata letak, dan kemudian menambahkan semua anak selanjutnya dari induknya ke tata letak tersebut. Ini hanyalah kemudahan untuk membuat layar lebih mudah dibaca."
 
 # game/tutorial_screen_displayables.rpy:395
 translate indonesian window_displayables_14beb786:
 
-    # e "In the default GUI that Ren'Py creates for a game, most user interface elements expect some sort of background."
-    e ""
+    # e "Dalam GUI default yang dibuat Ren'Py untuk sebuah game, sebagian besar elemen antarmuka pengguna mengharapkan semacam latar belakang."
+    e "Dalam GUI default yang dibuat Ren'Py untuk sebuah game, sebagian besar elemen antarmuka pengguna mengharapkan semacam latar belakang."
 
 # game/tutorial_screen_displayables.rpy:405
 translate indonesian window_displayables_495d332b:
 
-    # e "Without the background, text can be hard to read. While a frame isn't strictly required, many screens have one or more of them."
-    e ""
+    # e "Tanpa latar belakang, teks bisa sulit dibaca. Meskipun bingkai tidak diwajibkan secara ketat, banyak layar memiliki satu atau lebih dari itu."
+    e "Tanpa latar belakang, teks bisa sulit dibaca. Meskipun bingkai tidak diwajibkan secara ketat, banyak layar memiliki satu atau lebih dari itu."
 
 # game/tutorial_screen_displayables.rpy:417
 translate indonesian window_displayables_2c0565ab:
 
-    # e "But when I add a background, it's much easier. That's why there are two displayables that are intended to give backgrounds to user interface elements."
-    e ""
+    # e "Tapi ketika aku menambahkan latar belakang, itu jauh lebih mudah. Itulah mengapa ada dua displayable yang dimaksudkan untuk memberikan latar belakang pada elemen antarmuka pengguna."
+    e "Tapi ketika aku menambahkan latar belakang, itu jauh lebih mudah. Itulah mengapa ada dua displayable yang dimaksudkan untuk memberikan latar belakang pada elemen antarmuka pengguna."
 
 # game/tutorial_screen_displayables.rpy:419
 translate indonesian window_displayables_c7d0968c:
 
-    # e "The two displayables are frame and window. Frame is the one we use above, and it's designed to provide a background for arbitrary parts of the user interface."
-    e ""
+    # e "Kedua displayable tersebut adalah frame dan window. Frame adalah yang kita gunakan di atas, dan dirancang untuk menyediakan latar belakang bagi bagian mana pun dari antarmuka pengguna."
+    e "Kedua displayable tersebut adalah frame dan window. Frame adalah yang kita gunakan di atas, dan dirancang untuk menyediakan latar belakang bagi bagian mana pun dari antarmuka pengguna."
 
 # game/tutorial_screen_displayables.rpy:423
 translate indonesian window_displayables_7d843f62:
 
-    # e "On the other hand, the window displayable is very specific. It's used to provide the text window. If you're reading what I'm saying, you're looking at the text window right now."
-    e ""
+    # e "Di sisi lain, displayable window sangat spesifik. Ini digunakan untuk menyediakan jendela teks. Jika kamu membaca apa yang aku katakan, kamu sedang melihat jendela teks sekarang."
+    e "Di sisi lain, displayable window sangat spesifik. Ini digunakan untuk menyediakan jendela teks. Jika kamu membaca apa yang aku katakan, kamu sedang melihat jendela teks sekarang."
 
 # game/tutorial_screen_displayables.rpy:425
 translate indonesian window_displayables_de5963e4:
 
-    # e "Both frames and windows can be given window style properties, allowing you to change things like the background, margins, and padding around the window."
-    e ""
+    # e "Baik frame maupun window dapat diberikan properti gaya window, yang memungkinkanmu mengubah hal-hal seperti latar belakang, margin, dan padding di sekitar jendela."
+    e "Baik frame maupun window dapat diberikan properti gaya window, yang memungkinkanmu mengubah hal-hal seperti latar belakang, margin, dan padding di sekitar jendela."
 
 # game/tutorial_screen_displayables.rpy:433
 translate indonesian button_displayables_ea626553:
 
-    # e "One of the most flexible displayables is the button displayable, and its textbutton and imagebutton variants."
-    e ""
+    # e "Salah satu displayable yang paling fleksibel adalah displayable button, serta varian textbutton dan imagebutton-nya."
+    e "Salah satu displayable yang paling fleksibel adalah displayable button, serta varian textbutton dan imagebutton-nya."
 
 # game/tutorial_screen_displayables.rpy:443
 translate indonesian button_displayables_372dcc0f:
 
-    # e "A button is a displayable that when selected runs an action. Buttons can be selected by clicking with the mouse, by touch, or with the keyboard and controller."
-    e ""
+    # e "Tombol adalah displayable yang ketika dipilih akan menjalankan suatu aksi. Tombol dapat dipilih dengan mengklik mouse, dengan sentuhan, atau dengan keyboard dan kontroler."
+    e "Tombol adalah displayable yang ketika dipilih akan menjalankan suatu aksi. Tombol dapat dipilih dengan mengklik mouse, dengan sentuhan, atau dengan keyboard dan kontroler."
 
 # game/tutorial_screen_displayables.rpy:445
 translate indonesian button_displayables_a6b270ff:
 
-    # e "Actions can do many things, like setting variables, showing screens, jumping to a label, or returning a value. There are many {a=https://www.renpy.org/doc/html/screen_actions.html}actions in the Ren'Py documentation{/a}, and you can also write your own."
-    e ""
+    # e "Aksi dapat melakukan banyak hal, seperti mengatur variabel, menampilkan layar, melompat ke label, atau mengembalikan nilai. Ada banyak {a=https://www.renpy.org/doc/html/screen_actions.html}aksi di dokumentasi Ren'Py{/a}, dan kamu juga bisa menulis aksimu sendiri."
+    e "Aksi dapat melakukan banyak hal, seperti mengatur variabel, menampilkan layar, melompat ke label, atau mengembalikan nilai. Ada banyak {a=https://www.renpy.org/doc/html/screen_actions.html}aksi di dokumentasi Ren'Py{/a}, dan kamu juga bisa menulis aksimu sendiri."
 
 # game/tutorial_screen_displayables.rpy:458
 translate indonesian button_displayables_4c600d20:
 
-    # e "It's also possible to run actions when a button gains and loses focus."
-    e ""
+    # e "Dimungkinkan juga untuk menjalankan aksi saat tombol mendapatkan dan kehilangan fokus."
+    e "Dimungkinkan juga untuk menjalankan aksi saat tombol mendapatkan dan kehilangan fokus."
 
 # game/tutorial_screen_displayables.rpy:473
 translate indonesian button_displayables_47af4bb9:
 
-    # e "A button takes another displayable as a child. Since that child can be a layout, it can take as many children as you want." id button_displayables_47af4bb9
-    e "" id button_displayables_47af4bb9
+    # e "Sebuah tombol mengambil displayable lain sebagai anak. Karena anak tersebut bisa berupa tata letak, ia bisa mengambil anak sebanyak yang kamu mau." id button_displayables_47af4bb9
+    e "Sebuah tombol mengambil displayable lain sebagai anak. Karena anak tersebut bisa berupa tata letak, ia bisa mengambil anak sebanyak yang kamu mau." id button_displayables_47af4bb9
 
 # game/tutorial_screen_displayables.rpy:483
 translate indonesian button_displayables_d01adde3:
 
-    # e "In many cases, buttons will be given text. To make that easier, there's the textbutton displayable that takes the text as an argument."
-    e ""
+    # e "Dalam banyak kasus, tombol akan diberikan teks. Untuk mempermudah, ada displayable textbutton yang mengambil teks sebagai argumen."
+    e "Dalam banyak kasus, tombol akan diberikan teks. Untuk mempermudah, ada displayable textbutton yang mengambil teks sebagai argumen."
 
 # game/tutorial_screen_displayables.rpy:485
 translate indonesian button_displayables_01c551b3:
 
-    # e "Since the textbutton displayable manages the style of the button text for you, it's the kind of button that's used most often in the default GUI."
-    e ""
+    # e "Karena displayable textbutton mengelola gaya teks tombol untukmu, itu adalah jenis tombol yang paling sering digunakan dalam GUI default."
+    e "Karena displayable textbutton mengelola gaya teks tombol untukmu, itu adalah jenis tombol yang paling sering digunakan dalam GUI default."
 
 # game/tutorial_screen_displayables.rpy:498
 translate indonesian button_displayables_6911fb9b:
 
-    # e "There's also the imagebutton, which takes displayables, one for each state the button can be in, and displays them as the button."
-    e ""
+    # e "Ada juga imagebutton, yang mengambil displayable, satu untuk setiap status tombol, dan menampilkannya sebagai tombol."
+    e "Ada juga imagebutton, yang mengambil displayable, satu untuk setiap status tombol, dan menampilkannya sebagai tombol."
 
 # game/tutorial_screen_displayables.rpy:500
 translate indonesian button_displayables_49720fa6:
 
-    # e "An imagebutton gives you the most control over what a button looks like, but is harder to translate and won't look as good if the game window is resized."
-    e ""
+    # e "Imagebutton memberimu kendali paling besar atas tampilan tombol, tetapi lebih sulit untuk diterjemahkan dan tidak akan terlihat bagus jika jendela game diubah ukurannya."
+    e "Imagebutton memberimu kendali paling besar atas tampilan tombol, tetapi lebih sulit untuk diterjemahkan dan tidak akan terlihat bagus jika jendela game diubah ukurannya."
 
 # game/tutorial_screen_displayables.rpy:522
 translate indonesian button_displayables_e8d40fc8:
 
-    # e "Buttons take Window style properties, that are used to specify the background, margins, and padding. They also take Button-specific properties, like a sound to play on hover."
-    e ""
+    # e "Tombol mengambil properti gaya Window, yang digunakan untuk menentukan latar belakang, margin, dan padding. Mereka juga mengambil properti khusus Tombol, seperti suara untuk dimainkan saat di-hover."
+    e "Tombol mengambil properti gaya Window, yang digunakan untuk menentukan latar belakang, margin, dan padding. Mereka juga mengambil properti khusus Tombol, seperti suara untuk dimainkan saat di-hover."
 
 # game/tutorial_screen_displayables.rpy:524
 translate indonesian button_displayables_1e40e311:
 
-    # e "When used with a button, style properties can be given prefixes like idle and hover to make the property change with the button state."
-    e ""
+    # e "Saat digunakan dengan tombol, properti gaya dapat diberikan awalan seperti idle dan hover untuk membuat properti berubah sesuai status tombol."
+    e "Saat digunakan dengan tombol, properti gaya dapat diberikan awalan seperti idle dan hover untuk membuat properti berubah sesuai status tombol."
 
 # game/tutorial_screen_displayables.rpy:526
 translate indonesian button_displayables_220b020d:
 
-    # e "A text button also takes Text style properties, prefixed with text. These are applied to the text displayable it creates internally."
-    e ""
+    # e "Tombol teks juga mengambil properti gaya Teks, dengan awalan text. Ini diterapkan pada displayable teks yang dibuatnya secara internal."
+    e "Tombol teks juga mengambil properti gaya Teks, dengan awalan text. Ini diterapkan pada displayable teks yang dibuatnya secara internal."
 
 # game/tutorial_screen_displayables.rpy:558
 translate indonesian button_displayables_b89d12aa:
 
-    # e "Of course, it's prety rare we'd ever customize a button in a screen like that. Instead, we'd create custom styles and tell Ren'Py to use them."
-    e ""
+    # e "Tentu saja, sangat jarang kita menyesuaikan tombol di layar seperti itu. Sebaliknya, kita akan membuat gaya kustom dan memberi tahu Ren'Py untuk menggunakannya."
+    e "Tentu saja, sangat jarang kita menyesuaikan tombol di layar seperti itu. Sebaliknya, kita akan membuat gaya kustom dan memberi tahu Ren'Py untuk menggunakannya."
 
 # game/tutorial_screen_displayables.rpy:577
 translate indonesian bar_displayables_946746c2:
 
-    # e "The bar and vbar displayables are flexible displayables that show bars representing a value. The value can be static, animated, or adjustable by the player."
-    e ""
+    # e "Displayable bar dan vbar adalah displayable fleksibel yang menampilkan bilah yang mewakili suatu nilai. Nilainya bisa statis, animasi, atau dapat disesuaikan oleh pemain."
+    e "Displayable bar dan vbar adalah displayable fleksibel yang menampilkan bilah yang mewakili suatu nilai. Nilainya bisa statis, animasi, atau dapat disesuaikan oleh pemain."
 
 # game/tutorial_screen_displayables.rpy:579
 translate indonesian bar_displayables_af3a51b8:
 
-    # e "The value property gives a BarValue, which is an object that determines the bar's value and range. Here, a StaticValue sets the range to 100 and the value to 66, making a bar that's two thirds full."
-    e ""
+    # e "Properti value memberikan BarValue, yang merupakan objek yang menentukan nilai dan jangkauan bar. Di sini, StaticValue menetapkan jangkauan ke 100 dan nilai ke 66, membuat bar terisi dua pertiga."
+    e "Properti value memberikan BarValue, yang merupakan objek yang menentukan nilai dan jangkauan bar. Di sini, StaticValue menetapkan jangkauan ke 100 dan nilai ke 66, membuat bar terisi dua pertiga."
 
 # game/tutorial_screen_displayables.rpy:581
 translate indonesian bar_displayables_62f8b0ab:
 
-    # e "A list of all the BarValues that can be used is found {a=https://www.renpy.org/doc/html/screen_actions.html#bar-values}in the Ren'Py documentation{/a}."
-    e ""
+    # e "Daftar semua BarValue yang dapat digunakan dapat ditemukan {a=https://www.renpy.org/doc/html/screen_actions.html#bar-values}di dokumentasi Ren'Py{/a}."
+    e "Daftar semua BarValue yang dapat digunakan dapat ditemukan {a=https://www.renpy.org/doc/html/screen_actions.html#bar-values}di dokumentasi Ren'Py{/a}."
 
 # game/tutorial_screen_displayables.rpy:583
 translate indonesian bar_displayables_5212eb0a:
 
-    # e "In this example, we give the frame the xsize property. If we didn't do that, the bar would expand to fill all available horizontal space."
-    e ""
+    # e "Dalam contoh ini, kita memberikan properti xsize pada frame. Jika kita tidak melakukannya, bar akan melebar untuk mengisi semua ruang horizontal yang tersedia."
+    e "Dalam contoh ini, kita memberikan properti xsize pada frame. Jika kita tidak melakukannya, bar akan melebar untuk mengisi semua ruang horizontal yang tersedia."
 
 # game/tutorial_screen_displayables.rpy:600
 translate indonesian bar_displayables_67295018:
 
-    # e "There are a few different bar styles that are defined in the default GUI. The styles are selected by the style property, with the default selected by the value."
-    e ""
+    # e "Ada beberapa gaya bar berbeda yang didefinisikan dalam GUI default. Gaya dipilih oleh properti style, dengan default yang dipilih oleh value."
+    e "Ada beberapa gaya bar berbeda yang didefinisikan dalam GUI default. Gaya dipilih oleh properti style, dengan default yang dipilih oleh value."
 
 # game/tutorial_screen_displayables.rpy:602
 translate indonesian bar_displayables_1b037b21:
 
-    # e "The top style is the 'bar' style. It's used to display values that the player can't adjust, like a life or progress bar."
-    e ""
+    # e "Gaya teratas adalah gaya 'bar'. Ini digunakan untuk menampilkan nilai yang tidak dapat disesuaikan oleh pemain, seperti bar kesehatan atau progres."
+    e "Gaya teratas adalah gaya 'bar'. Ini digunakan untuk menampilkan nilai yang tidak dapat disesuaikan oleh pemain, seperti bar kesehatan atau progres."
 
 # game/tutorial_screen_displayables.rpy:604
 translate indonesian bar_displayables_c2aa4725:
 
-    # e "The middle style is the 'slider' value. It's used for values the player is expected to adjust, like a volume preference." id bar_displayables_c2aa4725
-    e "" id bar_displayables_c2aa4725
+    # e "Gaya tengah adalah nilai 'slider'. Ini digunakan untuk nilai yang diharapkan akan disesuaikan oleh pemain, seperti preferensi volume." id bar_displayables_c2aa4725
+    e "Gaya tengah adalah nilai 'slider'. Ini digunakan untuk nilai yang diharapkan akan disesuaikan oleh pemain, seperti preferensi volume." id bar_displayables_c2aa4725
 
 # game/tutorial_screen_displayables.rpy:606
 translate indonesian bar_displayables_2fc44226:
 
-    # e "Finally, the bottom style is the 'scrollbar' style, which is used for horizontal scrollbars. When used as a scrollbar, the thumb in the center changes size to reflect the visible area of a viewport."
-    e ""
+    # e "Terakhir, gaya bawah adalah gaya 'scrollbar', yang digunakan untuk bilah gulir horizontal. Saat digunakan sebagai scrollbar, thumb di tengah berubah ukuran untuk mencerminkan area viewport yang terlihat."
+    e "Terakhir, gaya bawah adalah gaya 'scrollbar', yang digunakan untuk bilah gulir horizontal. Saat digunakan sebagai scrollbar, thumb di tengah berubah ukuran untuk mencerminkan area viewport yang terlihat."
 
 # game/tutorial_screen_displayables.rpy:623
 translate indonesian bar_displayables_26eb88bf:
 
-    # e "The vbar displayable is similar to the bar displayable, except it uses vertical styles - 'vbar', 'vslider', and 'vscrollbar' - by default."
-    e ""
+    # e "Displayable vbar serupa dengan displayable bar, hanya saja ia menggunakan gaya vertikal - 'vbar', 'vslider', dan 'vscrollbar' - secara default."
+    e "Displayable vbar serupa dengan displayable bar, hanya saja ia menggunakan gaya vertikal - 'vbar', 'vslider', dan 'vscrollbar' - secara default."
 
 # game/tutorial_screen_displayables.rpy:626
 translate indonesian bar_displayables_11cf8af2:
 
-    # e "Bars take the Bar style properties, which can customize the look and feel greatly. Just look at the difference between the bar, slider, and scrollbar styles."
-    e ""
+    # e "Bar mengambil properti gaya Bar, yang dapat sangat menyesuaikan tampilan dan nuansa. Lihat saja perbedaan antara gaya bar, slider, dan scrollbar."
+    e "Bar mengambil properti gaya Bar, yang dapat sangat menyesuaikan tampilan dan nuansa. Lihat saja perbedaan antara gaya bar, slider, dan scrollbar."
 
 # game/tutorial_screen_displayables.rpy:635
 translate indonesian imagemap_displayables_d62fad02:
 
-    # e "Imagemaps use two or more images to show buttons and bars. Let me start by showing you an example of an imagemap in action."
-    e ""
+    # e "Imagemap menggunakan dua gambar atau lebih untuk menampilkan tombol dan bar. Izinkan aku mulai dengan menunjukkan contoh imagemap yang sedang beraksi."
+    e "Imagemap menggunakan dua gambar atau lebih untuk menampilkan tombol dan bar. Izinkan aku mulai dengan menunjukkan contoh imagemap yang sedang beraksi."
 
 # game/tutorial_screen_displayables.rpy:657
 translate indonesian swimming_405542a5:
 
-    # e "You chose swimming."
-    e ""
+    # e "Kamu memilih berenang."
+    e "Kamu memilih berenang."
 
 # game/tutorial_screen_displayables.rpy:659
 translate indonesian swimming_264b5873:
 
-    # e "Swimming seems like a lot of fun, but I didn't bring my bathing suit with me."
-    e ""
+    # e "Berenang sepertinya sangat menyenangkan, tapi aku tidak membawa baju renang."
+    e "Berenang sepertinya sangat menyenangkan, tapi aku tidak membawa baju renang."
 
 # game/tutorial_screen_displayables.rpy:665
 translate indonesian science_83e5c0cc:
 
-    # e "You chose science."
-    e ""
+    # e "Kamu memilih sains."
+    e "Kamu memilih sains."
 
 # game/tutorial_screen_displayables.rpy:667
 translate indonesian science_319cdf4b:
 
-    # e "I've heard that some schools have a competitive science team, but to me research is something that can't be rushed."
-    e ""
+    # e "Aku dengar beberapa sekolah punya tim sains yang kompetitif, tapi bagiku penelitian adalah sesuatu yang tidak bisa terburu-buru."
+    e "Aku dengar beberapa sekolah punya tim sains yang kompetitif, tapi bagiku penelitian adalah sesuatu yang tidak bisa terburu-buru."
 
 # game/tutorial_screen_displayables.rpy:672
 translate indonesian art_d2a94440:
 
-    # e "You chose art."
-    e ""
+    # e "Kamu memilih seni."
+    e "Kamu memilih seni."
 
 # game/tutorial_screen_displayables.rpy:674
 translate indonesian art_e6af6f1d:
 
-    # e "Really good background art is hard to make, which is why so many games use filtered photographs. Maybe you can change that."
-    e ""
+    # e "Seni latar belakang yang sangat bagus sulit dibuat, itulah sebabnya banyak game menggunakan foto yang difilter. Mungkin kamu bisa mengubahnya."
+    e "Seni latar belakang yang sangat bagus sulit dibuat, itulah sebabnya banyak game menggunakan foto yang difilter. Mungkin kamu bisa mengubahnya."
 
 # game/tutorial_screen_displayables.rpy:680
 translate indonesian home_373ea9a5:
 
-    # e "You chose to go home."
-    e ""
+    # e "Kamu memilih untuk pulang."
+    e "Kamu memilih untuk pulang."
 
 # game/tutorial_screen_displayables.rpy:686
 translate indonesian imagemap_done_48eca0a4:
 
-    # e "Anyway..."
-    e ""
+    # e "Omong-omong..."
+    e "Omong-omong..."
 
 # game/tutorial_screen_displayables.rpy:691
 translate indonesian imagemap_done_a60635a1:
 
-    # e "To demonstrate how imagemaps are put together, I'll show you the five images that make up a smaller imagemap."
-    e ""
+    # e "Untuk mendemonstrasikan bagaimana imagemap disusun, aku akan menunjukkan lima gambar yang membentuk imagemap yang lebih kecil."
+    e "Untuk mendemonstrasikan bagaimana imagemap disusun, aku akan menunjukkan lima gambar yang membentuk imagemap yang lebih kecil."
 
 # game/tutorial_screen_displayables.rpy:697
 translate indonesian imagemap_done_ac9631ef:
 
-    # e "The idle image is used for the background of the imagemap, for hotspot buttons that aren't focused or selected, and for the empty part of an unfocused bar."
-    e ""
+    # e "Gambar idle digunakan untuk latar belakang imagemap, untuk tombol hotspot yang tidak difokuskan atau dipilih, dan untuk bagian kosong dari bar yang tidak difokuskan."
+    e "Gambar idle digunakan untuk latar belakang imagemap, untuk tombol hotspot yang tidak difokuskan atau dipilih, dan untuk bagian kosong dari bar yang tidak difokuskan."
 
 # game/tutorial_screen_displayables.rpy:703
 translate indonesian imagemap_done_123b5924:
 
-    # e "The hover image is used for hotspots that are focused but not selected, and for the empty part of a focused bar."
-    e ""
+    # e "Gambar hover digunakan untuk hotspot yang difokuskan tetapi tidak dipilih, dan untuk bagian kosong dari bar yang difokuskan."
+    e "Gambar hover digunakan untuk hotspot yang difokuskan tetapi tidak dipilih, dan untuk bagian kosong dari bar yang difokuskan."
 
 # game/tutorial_screen_displayables.rpy:705
 translate indonesian imagemap_done_37f538dc:
 
-    # e "Notice how both the bar and button are highlighted in this image. When we display them as part of a screen, only one of them will show up as focused."
-    e ""
+    # e "Perhatikan bagaimana bar dan tombol disorot dalam gambar ini. Ketika kita menampilkannya sebagai bagian dari layar, hanya satu dari mereka yang akan muncul sebagai fokus."
+    e "Perhatikan bagaimana bar dan tombol disorot dalam gambar ini. Ketika kita menampilkannya sebagai bagian dari layar, hanya satu dari mereka yang akan muncul sebagai fokus."
 
 # game/tutorial_screen_displayables.rpy:711
 translate indonesian imagemap_done_c76b072d:
 
-    # e "Selected images like this selected_idle image are used for parts of the bar that are filled, and for selected buttons, like the current screen and a checked checkbox."
-    e ""
+    # e "Gambar terpilih seperti gambar selected_idle ini digunakan untuk bagian bar yang terisi, dan untuk tombol yang dipilih, seperti layar saat ini dan kotak centang yang dicentang."
+    e "Gambar terpilih seperti gambar selected_idle ini digunakan untuk bagian bar yang terisi, dan untuk tombol yang dipilih, seperti layar saat ini dan kotak centang yang dicentang."
 
 # game/tutorial_screen_displayables.rpy:717
 translate indonesian imagemap_done_241a4112:
 
-    # e "Here's the selected_hover image. The button here will never be shown, since it will never be marked as selected."
-    e ""
+    # e "Inilah gambar selected_hover. Tombol di sini tidak akan pernah ditampilkan, karena tidak akan pernah ditandai sebagai terpilih."
+    e "Inilah gambar selected_hover. Tombol di sini tidak akan pernah ditampilkan, karena tidak akan pernah ditandai sebagai terpilih."
 
 # game/tutorial_screen_displayables.rpy:723
 translate indonesian imagemap_done_3d8f454c:
 
-    # e "Finally, an insensitive image can be given, which is used when a hotspot can't be interacted with."
-    e ""
+    # e "Terakhir, gambar insensitive dapat diberikan, yang digunakan saat hotspot tidak dapat berinteraksi."
+    e "Terakhir, gambar insensitive dapat diberikan, yang digunakan saat hotspot tidak dapat berinteraksi."
 
 # game/tutorial_screen_displayables.rpy:728
 translate indonesian imagemap_done_ca286729:
 
-    # e "Imagemaps aren't limited to just images. Any displayable can be used where an image is expected."
-    e ""
+    # e "Imagemap tidak terbatas hanya pada gambar. Displayable apa pun dapat digunakan di tempat yang mengharapkan gambar."
+    e "Imagemap tidak terbatas hanya pada gambar. Displayable apa pun dapat digunakan di tempat yang mengharapkan gambar."
 
 # game/tutorial_screen_displayables.rpy:743
 translate indonesian imagemap_done_6060b17f:
 
-    # e "Here's an imagemap built using those five images. Now that it's an imagemap, you can interact with it if you want to."
-    e ""
+    # e "Inilah imagemap yang dibuat menggunakan kelima gambar tersebut. Sekarang karena ini adalah sebuah imagemap, kamu bisa berinteraksi dengannya jika mau."
+    e "Inilah imagemap yang dibuat menggunakan kelima gambar tersebut. Sekarang karena ini adalah sebuah imagemap, kamu bisa berinteraksi dengannya jika mau."
 
 # game/tutorial_screen_displayables.rpy:755
 translate indonesian imagemap_done_c817794d:
 
-    # e "To make this a little more concise, we can replace the five images with the auto property, which replaces '%%s' with 'idle', 'hover', 'selected_idle', 'selected_hover', or 'insensitive' as appropriate."
-    e ""
+    # e "Untuk membuatnya sedikit lebih ringkas, kita dapat mengganti kelima gambar tersebut dengan properti auto, yang menggantikan '%%s' dengan 'idle', 'hover', 'selected_idle', 'selected_hover', atau 'insensitive' sebagaimana mestinya."
+    e "Untuk membuatnya sedikit lebih ringkas, kita dapat mengganti kelima gambar tersebut dengan properti auto, yang menggantikan '%%s' dengan 'idle', 'hover', 'selected_idle', 'selected_hover', atau 'insensitive' sebagaimana mestinya."
 
 # game/tutorial_screen_displayables.rpy:757
 translate indonesian imagemap_done_c1ed91b8:
 
-    # e "Feel free to omit the selected and insensitive images if your game doesn't need them. Ren'Py will use the idle or hover images to replace them."
-    e ""
+    # e "Jangan ragu untuk mengabaikan gambar selected dan insensitive jika game kamu tidak membutuhkannya. Ren'Py akan menggunakan gambar idle atau hover untuk menggantikannya."
+    e "Jangan ragu untuk mengabaikan gambar selected dan insensitive jika game kamu tidak membutuhkannya. Ren'Py akan menggunakan gambar idle atau hover untuk menggantikannya."
 
 # game/tutorial_screen_displayables.rpy:759
 translate indonesian imagemap_done_166f75db:
 
-    # e "The hotspot and hotbar statements describe areas of the imagemap that should act as buttons or bars, respectively."
-    e ""
+    # e "Pernyataan hotspot dan hotbar mendeskripsikan area imagemap yang masing-masing harus bertindak sebagai tombol atau bar."
+    e "Pernyataan hotspot dan hotbar mendeskripsikan area imagemap yang masing-masing harus bertindak sebagai tombol atau bar."
 
 # game/tutorial_screen_displayables.rpy:761
 translate indonesian imagemap_done_becb9688:
 
-    # e "Both take the coordinates of the area, in (x, y, width, height) format."
-    e ""
+    # e "Keduanya mengambil koordinat area, dalam format (x, y, width, height)."
+    e "Keduanya mengambil koordinat area, dalam format (x, y, width, height)."
 
 # game/tutorial_screen_displayables.rpy:763
 translate indonesian imagemap_done_fd56baa2:
 
-    # e "A hotspot takes an action that is run when the hotspot is activated. It can also take actions that are run when it's hovered and unhovered, just like a button can."
-    e ""
+    # e "Sebuah hotspot mengambil aksi yang dijalankan saat hotspot diaktifkan. Ia juga dapat mengambil aksi yang dijalankan saat di-hover dan tidak di-hover, sama seperti tombol."
+    e "Sebuah hotspot mengambil aksi yang dijalankan saat hotspot diaktifkan. Ia juga dapat mengambil aksi yang dijalankan saat di-hover dan tidak di-hover, sama seperti tombol."
 
 # game/tutorial_screen_displayables.rpy:765
 translate indonesian imagemap_done_5660a6a2:
 
-    # e "A hotbar takes a BarValue object that describes how full the bar is, and the range of values the bar should display, just like a bar and vbar does."
-    e ""
+    # e "Hotbar mengambil objek BarValue yang menjelaskan seberapa penuh bar tersebut, dan rentang nilai yang harus ditampilkan bar, sama seperti yang dilakukan bar dan vbar."
+    e "Hotbar mengambil objek BarValue yang menjelaskan seberapa penuh bar tersebut, dan rentang nilai yang harus ditampilkan bar, sama seperti yang dilakukan bar dan vbar."
 
 # game/tutorial_screen_displayables.rpy:772
 translate indonesian imagemap_done_10496a29:
 
-    # e "A useful pattern is to define a screen with an imagemap that has hotspots that jump to labels, and call that using the call screen statement."
-    e ""
+    # e "Pola yang berguna adalah mendefinisikan layar dengan imagemap yang memiliki hotspot yang melompat ke label, dan memanggilnya menggunakan pernyataan call screen."
+    e "Pola yang berguna adalah mendefinisikan layar dengan imagemap yang memiliki hotspot yang melompat ke label, dan memanggilnya menggunakan pernyataan call screen."
 
 # game/tutorial_screen_displayables.rpy:774
 translate indonesian imagemap_done_dcb45224:
 
-    # e "That's what we did in the school example I showed before. Here's the script for it. It's long, but the imagemap itself is fairly simple."
-    e ""
+    # e "Itulah yang kita lakukan dalam contoh sekolah yang kutunjukkan sebelumnya. Inilah skripnya. Ini panjang, tapi imagemap itu sendiri cukup sederhana."
+    e "Itulah yang kita lakukan dalam contoh sekolah yang kutunjukkan sebelumnya. Inilah skripnya. Ini panjang, tapi imagemap itu sendiri cukup sederhana."
 
 # game/tutorial_screen_displayables.rpy:778
 translate indonesian imagemap_done_5b5bc5e5:
 
-    # e "Imagemaps have pluses and minuses. On one hand, they are easy for a designer to create, and can look very good. At the same time, they can be hard to translate, and text baked into images may be blurry when the window is scaled."
-    e ""
+    # e "Imagemap memiliki kelebihan dan kekurangan. Di satu sisi, mereka mudah dibuat oleh desainer, dan bisa terlihat sangat bagus. Di saat yang sama, mereka bisa sulit untuk diterjemahkan, dan teks yang menyatu dalam gambar mungkin menjadi buram saat jendela diubah skalanya."
+    e "Imagemap memiliki kelebihan dan kekurangan. Di satu sisi, mereka mudah dibuat oleh desainer, dan bisa terlihat sangat bagus. Di saat yang sama, mereka bisa sulit untuk diterjemahkan, dan teks yang menyatu dalam gambar mungkin menjadi buram saat jendela diubah skalanya."
 
 # game/tutorial_screen_displayables.rpy:780
 translate indonesian imagemap_done_b6cebf2b:
 
-    # e "It's up to you and your team to decide if imagemaps are right for your project."
-    e ""
+    # e "Terserah kamu dan timmu untuk memutuskan apakah imagemap tepat untuk proyekmu."
+    e "Terserah kamu dan timmu untuk memutuskan apakah imagemap tepat untuk proyekmu."
 
 # game/tutorial_screen_displayables.rpy:787
 translate indonesian viewport_displayables_e509d50d:
 
-    # e "Sometimes, you'll want to display something bigger than the screen. That's what the viewport displayable is for."
-    e ""
+    # e "Terkadang, kamu ingin menampilkan sesuatu yang lebih besar dari layar. Untuk itulah displayable viewport ada."
+    e "Terkadang, kamu ingin menampilkan sesuatu yang lebih besar dari layar. Untuk itulah displayable viewport ada."
 
 # game/tutorial_screen_displayables.rpy:803
 translate indonesian viewport_displayables_9853b0e3:
 
-    # e "Here's an example of a simple viewport, used to display a single image that's far bigger than the screen. Since the viewport will expand to the size of the screen, we use the xysize property to make it smaller."
-    e ""
+    # e "Inilah contoh viewport sederhana, yang digunakan untuk menampilkan satu gambar yang jauh lebih besar dari layar. Karena viewport akan melebar ke ukuran layar, kita menggunakan properti xysize untuk membuatnya lebih kecil."
+    e "Inilah contoh viewport sederhana, yang digunakan untuk menampilkan satu gambar yang jauh lebih besar dari layar. Karena viewport akan melebar ke ukuran layar, kita menggunakan properti xysize untuk membuatnya lebih kecil."
 
 # game/tutorial_screen_displayables.rpy:805
 translate indonesian viewport_displayables_778668c8:
 
-    # e "By default the viewport can't be moved, so we give the draggable, mousewheel, and arrowkeys properties to allow it to be moved in multiple ways."
-    e ""
+    # e "Secara default viewport tidak dapat digerakkan, jadi kita memberikan properti draggable, mousewheel, dan arrowkeys untuk memungkinkannya digerakkan dalam berbagai cara."
+    e "Secara default viewport tidak dapat digerakkan, jadi kita memberikan properti draggable, mousewheel, dan arrowkeys untuk memungkinkannya digerakkan dalam berbagai cara."
 
 # game/tutorial_screen_displayables.rpy:820
 translate indonesian viewport_displayables_bbd63377:
 
-    # e "When I give the viewport the edgescroll property, the viewport automatically scrolls when the mouse is near its edges. The two numbers are the size of the edges, and the speed in pixels per second."
-    e ""
+    # e "Saat aku memberikan properti edgescroll pada viewport, viewport akan menggulir secara otomatis saat mouse berada di dekat tepinya. Kedua angka tersebut adalah ukuran tepi, dan kecepatan dalam piksel per detik."
+    e "Saat aku memberikan properti edgescroll pada viewport, viewport akan menggulir secara otomatis saat mouse berada di dekat tepinya. Kedua angka tersebut adalah ukuran tepi, dan kecepatan dalam piksel per detik."
 
 # game/tutorial_screen_displayables.rpy:839
 translate indonesian viewport_displayables_7c4678ee:
 
-    # e "Giving the viewport the scrollbars property surrounds it with scrollbars. The scrollbars property can take 'both', 'horizontal', and 'vertical' as values."
-    e ""
+    # e "Memberikan properti scrollbars pada viewport akan mengelilinginya dengan bilah gulir. Properti scrollbars dapat mengambil nilai 'both', 'horizontal', dan 'vertical'."
+    e "Memberikan properti scrollbars pada viewport akan mengelilinginya dengan bilah gulir. Properti scrollbars dapat mengambil nilai 'both', 'horizontal', dan 'vertical'."
 
 # game/tutorial_screen_displayables.rpy:841
 translate indonesian viewport_displayables_197953b5:
 
-    # e "The spacing property controls the space between the viewport and its scrollbars, in pixels."
-    e ""
+    # e "Properti spacing mengontrol ruang antara viewport dan bilah gulirnya, dalam piksel."
+    e "Properti spacing mengontrol ruang antara viewport dan bilah gulirnya, dalam piksel."
 
 # game/tutorial_screen_displayables.rpy:864
 translate indonesian viewport_displayables_54dd6e7b:
 
-    # e "The xinitial and yinitial properties set the initial amount of scrolling, as a fraction of the amount that can be scrolled."
-    e ""
+    # e "Properti xinitial dan yinitial menetapkan jumlah pengguliran awal, sebagai pecahan dari jumlah yang dapat digulir."
+    e "Properti xinitial dan yinitial menetapkan jumlah pengguliran awal, sebagai pecahan dari jumlah yang dapat digulir."
 
 # game/tutorial_screen_displayables.rpy:890
 translate indonesian viewport_displayables_ae4ff821:
 
-    # e "Finally, there's the vpgrid displayable. It combines a viewport and a grid into a single displayable, except it's more efficient than either, since it doesn't have to draw every child."
-    e ""
+    # e "Terakhir, ada displayable vpgrid. Ini menggabungkan viewport dan grid menjadi satu displayable, namun lebih efisien daripada keduanya, karena tidak perlu menggambar setiap anak."
+    e "Terakhir, ada displayable vpgrid. Ini menggabungkan viewport dan grid menjadi satu displayable, namun lebih efisien daripada keduanya, karena tidak perlu menggambar setiap anak."
 
 # game/tutorial_screen_displayables.rpy:892
 translate indonesian viewport_displayables_71fa0b8f:
 
-    # e "It takes the cols and rows properties, which give the number of rows and columns of children. If one is omitted, Ren'Py figures it out from the other and the number of children."
-    e ""
+    # e "Ini mengambil properti cols dan rows, yang memberikan jumlah baris dan kolom anak. Jika salah satunya diabaikan, Ren'Py akan mengetahuinya dari yang lain dan jumlah anak."
+    e "Ini mengambil properti cols dan rows, yang memberikan jumlah baris dan kolom anak. Jika salah satunya diabaikan, Ren'Py akan mengetahuinya dari yang lain dan jumlah anak."
 
 translate indonesian strings:
 
     # game/tutorial_screen_displayables.rpy:9
     old "Common properties all displayables share."
-    new ""
+    new "Properti umum yang dimiliki semua displayable."
 
     # game/tutorial_screen_displayables.rpy:9
     old "Adding images and other displayables."
-    new ""
+    new "Menambahkan gambar dan displayable lainnya."
 
     # game/tutorial_screen_displayables.rpy:9
     old "Text."
-    new ""
+    new "Teks."
 
     # game/tutorial_screen_displayables.rpy:9
     old "Boxes and other layouts."
-    new ""
+    new "Kotak dan tata letak lainnya."
 
     # game/tutorial_screen_displayables.rpy:9
     old "Windows and frames."
-    new ""
+    new "Jendela dan bingkai."
 
     # game/tutorial_screen_displayables.rpy:9
     old "Buttons."
-    new ""
+    new "Tombol."
 
     # game/tutorial_screen_displayables.rpy:9
     old "Bars."
-    new ""
+    new "Bar."
 
     # game/tutorial_screen_displayables.rpy:9
     old "Viewports."
-    new ""
+    new "Viewport."
 
     # game/tutorial_screen_displayables.rpy:9
     old "Imagemaps."
-    new ""
+    new "Imagemap."
 
     # game/tutorial_screen_displayables.rpy:9
     old "That's all for now."
-    new ""
+    new "Itu saja untuk saat ini."
 
     # game/tutorial_screen_displayables.rpy:55
     old "This uses position properties."
-    new ""
+    new "Ini menggunakan properti posisi."
 
     # game/tutorial_screen_displayables.rpy:63
     old "And the world turned upside down..."
-    new ""
+    new "Dan dunia menjadi terbalik..."
 
     # game/tutorial_screen_displayables.rpy:115
     old "Flight pressure in tanks."
-    new ""
+    new "Tekanan penerbangan di tangki."
 
     # game/tutorial_screen_displayables.rpy:116
     old "On internal power."
-    new ""
+    new "Menggunakan daya internal."
 
     # game/tutorial_screen_displayables.rpy:117
     old "Launch enabled."
-    new ""
+    new "Peluncuran diaktifkan."
 
     # game/tutorial_screen_displayables.rpy:118
     old "Liftoff!"
-    new ""
+    new "Lepas landas!"
 
     # game/tutorial_screen_displayables.rpy:232
     old "The answer is [answer]."
-    new ""
+    new "Jawabannya adalah [answer]."
 
     # game/tutorial_screen_displayables.rpy:244
     old "Text tags {color=#c8ffc8}work{/color} in screens."
-    new ""
+    new "Tag teks {color=#c8ffc8}berfungsi{/color} di layar."
 
     # game/tutorial_screen_displayables.rpy:336
     old "Bigger"
-    new ""
+    new "Lebih Besar"
 
     # game/tutorial_screen_displayables.rpy:401
     old "This is a screen."
-    new ""
+    new "Ini adalah layar."
 
     # game/tutorial_screen_displayables.rpy:402
     old "Okay"
-    new ""
+    new "Oke"
 
     # game/tutorial_screen_displayables.rpy:440
     old "You clicked the button."
-    new ""
+    new "Kamu mengklik tombol."
 
     # game/tutorial_screen_displayables.rpy:441
     old "Click me."
-    new ""
+    new "Klik aku."
 
     # game/tutorial_screen_displayables.rpy:453
     old "You hovered the button."
-    new ""
+    new "Kamu menyorot tombol."
 
     # game/tutorial_screen_displayables.rpy:454
     old "You unhovered the button."
-    new ""
+    new "Kamu berhenti menyorot tombol."
 
     # game/tutorial_screen_displayables.rpy:470
     old "Heal"
-    new ""
+    new "Sembuh"
 
     # game/tutorial_screen_displayables.rpy:479
     old "This is a textbutton."
-    new ""
+    new "Ini adalah textbutton."
 
     # game/tutorial_screen_displayables.rpy:539
     old "Or me."
-    new ""
+    new "Atau aku."
 
     # game/tutorial_screen_displayables.rpy:541
     old "You clicked the other button."
-    new ""
+    new "Kamu mengklik tombol lainnya."
 
+    
