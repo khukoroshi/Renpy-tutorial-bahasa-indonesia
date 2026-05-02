@@ -310,398 +310,400 @@ translate indonesian style_text_87b075f8:
 translate indonesian style_text_fe7dec14:
 
     # e "The line_leading and line_spacing properties put spacing before each line, and between lines, respectively."
-    e ""
+    e "Properti 'line_leading' dan 'line_spacing' masing-masing memberikan ruang sebelum setiap baris, dan di antara baris."
 
 # game/indepth_style.rpy:424
 translate indonesian style_text_aee9277a:
 
     # e "The outlines property puts outlines around text. This takes a list of tuples, which is a bit complicated."
-    e ""
+    e "Properti 'outlines' memberikan garis tepi (outline) di sekitar teks. Ini menerima daftar tuple, yang teknisnya sedikit rumit."
 
 # game/indepth_style.rpy:426
 translate indonesian style_text_b4c5190f:
 
     # e "But if you ignore the brackets and parenthesis, you have the width of the outline, the color, and then horizontal and vertical offsets."
-    e ""
+    e "Namun jika Anda mengabaikan kurung siku dan kurung biasa, Anda akan melihat lebar garis tepi, warna, lalu pergeseran (offset) horizontal dan vertikal."
 
 # game/indepth_style.rpy:434
 translate indonesian style_text_5a0c2c02:
 
     # e "The rest_indent property controls the indentation of lines after the first one."
-    e ""
+    e "Properti 'rest_indent' mengontrol indentasi untuk baris-baris setelah baris pertama."
 
 # game/indepth_style.rpy:443
 translate indonesian style_text_430c1959:
 
     # e "The textalign property controls the positioning of multiple lines of text inside the text displayable. For example, 0.5 means centered." id style_text_430c1959
-    e "" id style_text_430c1959
+    e "Properti 'textalign' mengontrol posisi dari beberapa baris teks di dalam displayable teks tersebut. Sebagai contoh, 0.5 berarti rata tengah." id style_text_430c1959
 
 # game/indepth_style.rpy:445
 translate indonesian style_text_19aa0833:
 
     # e "It doesn't change the position of the text displayable itself. For that, you'll often want to set the textalign and xalign to the same value." id style_text_19aa0833
-    e "" id style_text_19aa0833
+    e "Ini tidak mengubah posisi dari displayable teks itu sendiri. Untuk itu, Anda biasanya perlu mengatur 'textalign' dan 'xalign' ke nilai yang sama." id style_text_19aa0833
 
 # game/indepth_style.rpy:455
 translate indonesian style_text_efc3c392:
 
     # e "When both textalign and xalign are set to 1.0, the text is properly right-justified." id style_text_efc3c392
-    e "" id style_text_efc3c392
+    e "Ketika 'textalign' dan 'xalign' keduanya diatur ke 1.0, teks akan menjadi rata kanan dengan benar." id style_text_efc3c392
 
 # game/indepth_style.rpy:464
 translate indonesian style_text_43be63b9:
 
     # e "The underline property underlines the text."
-    e ""
+    e "Properti 'underline' memberikan garis bawah pada teks."
 
 # game/indepth_style.rpy:471
 translate indonesian style_text_343f6d34:
 
     # e "Those are the most common text style properties, but not the only ones. Here are a few more that you might need in special circumstances."
-    e ""
+    e "Itulah properti gaya teks yang paling umum, tetapi bukan satu-satunya. Berikut adalah beberapa lagi yang mungkin Anda butuhkan dalam keadaan khusus."
 
 # game/indepth_style.rpy:479
 translate indonesian style_text_e7204a95:
 
     # e "By default, text in Ren'Py is antialiased, to smooth the edges. The antialias property can turn that off, and make the text a little more jagged."
-    e ""
+    e "Secara default, teks di Ren'Py menggunakan antialias untuk menghaluskan tepiannya. Properti 'antialias' dapat mematikan fitur tersebut dan membuat teks terlihat sedikit lebih tajam/kasar (jagged)."
 
 # game/indepth_style.rpy:487
 translate indonesian style_text_a5316e4c:
 
     # e "The adjust_spacing property is a very subtle one, that only matters when a player resizes the window. When True, characters will be shifted a bit so the Text has the same relative spacing."
-    e ""
+    e "Properti 'adjust_spacing' sangat halus, yang hanya berpengaruh saat pemain mengubah ukuran jendela (resize). Jika bernilai True, karakter akan sedikit digeser agar Teks tetap memiliki spasi relatif yang sama."
 
 # game/indepth_style.rpy:496
 translate indonesian style_text_605d4e4a:
 
     # e "When False, the text won't jump around as much. But it can be a little wider or narrower based on screen size."
-    e ""
+    e "Jika bernilai False, teks tidak akan terlalu banyak bergeser. Namun teks bisa menjadi sedikit lebih lebar atau sempit tergantung pada ukuran layar."
 
 # game/indepth_style.rpy:505
 translate indonesian style_text_acf8a0e1:
 
     # e "The layout property has a few special values that control where lines are broken. The 'nobreak' value disables line breaks entirely, making the text wider."
-    e ""
+    e "Properti 'layout' memiliki beberapa nilai khusus yang mengontrol di mana baris diputus. Nilai 'nobreak' menonaktifkan pemutusan baris sepenuhnya, sehingga teks menjadi lebih lebar."
 
 # game/indepth_style.rpy:516
 translate indonesian style_text_785729cf:
 
     # e "When the layout property is set to 'subtitle', the line breaking algorithm is changed to try to make all lines even in length, as subtitles usually are."
-    e ""
+    e "Ketika properti 'layout' diatur ke 'subtitle', algoritma pemutusan baris diubah untuk mencoba membuat semua baris memiliki panjang yang seimbang, seperti gaya subjudul pada umumnya."
 
 # game/indepth_style.rpy:524
 translate indonesian style_text_9c26f218:
 
     # e "The strikethrough property draws a line through the text. It seems pretty unlikely you'd want to use this one."
-    e ""
+    e "Properti 'strikethrough' menggambar garis yang mencoret teks. Sepertinya kecil kemungkinan Anda ingin menggunakan yang satu ini."
 
 # game/indepth_style.rpy:534
 translate indonesian style_text_c7229243:
 
     # e "The vertical style property places text in a vertical layout. It's meant for Asian languages with special fonts."
-    e ""
+    e "Properti gaya 'vertical' menempatkan teks dalam tata letak vertikal. Ini ditujukan untuk bahasa-bahasa Asia yang menggunakan font khusus."
 
 # game/indepth_style.rpy:540
 translate indonesian style_text_724bd5e0:
 
     # e "And those are the text style properties. There might be a lot of them, but we want to give you a lot of control over how you present text to your players."
-    e ""
+    e "Dan itulah properti gaya teks. Mungkin jumlahnya banyak, tetapi kami ingin memberi Anda kontrol penuh atas cara Anda menyajikan teks kepada pemain."
 
 # game/indepth_style.rpy:580
 translate indonesian style_button_300b6af5:
 
     # e "Next up, we have the window and button style properties. These apply to windows like the text window at the bottom of this screen and frames like the ones we show examples in."
-    e ""
+    e "Selanjutnya, kita memiliki properti gaya window (jendela) dan button (tombol). Ini berlaku untuk jendela seperti kotak teks di bagian bawah layar ini dan frame seperti contoh yang kami tunjukkan."
 
 # game/indepth_style.rpy:582
 translate indonesian style_button_255a18e4:
 
     # e "These properties also apply to buttons, in-game and out-of-game. To Ren'Py, a button is a window you can click."
-    e ""
+    e "Properti ini juga berlaku untuk tombol, baik di dalam maupun di luar game. Bagi Ren'Py, sebuah tombol adalah jendela yang dapat diklik."
 
 # game/indepth_style.rpy:593
 translate indonesian style_button_9b53ce93:
 
     # e "I'll start off with this style, which everything will inherit from. To make our lives easier, it inherits from the default style, rather than the customized buttons in this game's GUI." id style_button_9b53ce93
-    e "" id style_button_9b53ce93
+    e "Saya akan mulai dengan gaya ini, yang akan diwarisi oleh semuanya. Untuk mempermudah kita, gaya ini mewarisi dari gaya default, bukan dari tombol yang telah dikustomisasi di GUI game ini."
 
 # game/indepth_style.rpy:595
 translate indonesian style_button_aece4a8c:
 
     # e "The first style property is the background property. It adds a background to a button or window. Since this is a button, idle and hover variants choose different backgrounds when focused." id style_button_aece4a8c
-    e "" id style_button_aece4a8c
+    e "Properti gaya pertama adalah properti 'background'. Ini menambahkan latar belakang pada tombol atau jendela. Karena ini adalah tombol, varian 'idle' dan 'hover' memilih latar belakang yang berbeda saat difokuskan."
 
 # game/indepth_style.rpy:597
 translate indonesian style_button_b969f04a:
 
     # e "We also center the two buttons, using the xalign position property."
-    e ""
+    e "Kami juga menempatkan kedua tombol di tengah menggunakan properti posisi 'xalign'."
 
 # game/indepth_style.rpy:601
 translate indonesian style_button_269ae069:
 
     # e "We've also customized the style of the button's text, using this style. It centers the text and makes it change color when hovered."
-    e ""
+    e "Kami juga telah menyesuaikan gaya teks tombol menggunakan gaya ini. Ini menempatkan teks di tengah dan membuatnya berubah warna saat disorot (hover)."
 
 # game/indepth_style.rpy:612
 translate indonesian style_button_1009f3e1:
 
     # e "Without any padding around the text, the button looks odd. Ren'Py has padding properties that add space inside the button's background."
-    e ""
+    e "Tanpa padding di sekitar teks, tombol akan terlihat aneh. Ren'Py memiliki properti padding yang menambahkan ruang di dalam latar belakang tombol."
+
+
 
 # game/indepth_style.rpy:621
 translate indonesian style_button_5bdfa45a:
 
     # e "More commonly used are the xpadding and ypadding style properties, which add the same padding to the left and right, or the top and bottom, respectively."
-    e ""
+    e "Yang lebih umum digunakan adalah properti gaya 'xpadding' dan 'ypadding', yang masing-masing menambahkan padding yang sama ke kiri dan kanan, atau atas dan bawah."
 
 # game/indepth_style.rpy:629
 translate indonesian style_button_81283d42:
 
     # e "The margin style properties work the same way, except they add space outside the background. The full set exists: left_margin, right_margin, top_margin, bottom_margin, xmargin, and ymargin."
-    e ""
+    e "Properti gaya margin bekerja dengan cara yang sama, kecuali mereka menambahkan ruang di luar latar belakang. Tersedia set lengkap: left_margin, right_margin, top_margin, bottom_margin, xmargin, dan ymargin."
 
 # game/indepth_style.rpy:638
 translate indonesian style_button_0b7aca6b:
 
     # e "The size_group style property takes a string. Ren'Py will make sure that all the windows or buttons with the same size_group string are the same size."
-    e ""
+    e "Properti gaya 'size_group' menerima sebuah string. Ren'Py akan memastikan bahwa semua jendela atau tombol dengan string 'size_group' yang sama memiliki ukuran yang sama."
 
 # game/indepth_style.rpy:647
 translate indonesian style_button_4c6da7d9:
 
     # e "Alternatively, the xfill and yfill style properties make a button take up all available space in the horizontal or vertical directions."
-    e ""
+    e "Alternatifnya, properti gaya 'xfill' dan 'yfill' membuat tombol menghabiskan semua ruang yang tersedia dalam arah horizontal atau vertikal."
 
 # game/indepth_style.rpy:657
 translate indonesian style_button_fd5338b2:
 
     # e "The foreground property gives a displayable that is placed on top of the contents and background of the window or button."
-    e ""
+    e "Properti 'foreground' memberikan displayable yang ditempatkan di atas konten dan latar belakang jendela atau tombol."
 
 # game/indepth_style.rpy:659
 translate indonesian style_button_b8af697c:
 
     # e "One way to use it is to provide extra decorations to a button that's serving as a checkbox. Another would be to use it with a Frame to provide a glossy shine that overlays the button's contents."
-    e ""
+    e "Salah satu cara menggunakannya adalah untuk memberikan dekorasi ekstra pada tombol yang berfungsi sebagai kotak centang (checkbox). Cara lainnya adalah menggunakannya dengan Frame untuk memberikan efek kilau (glossy shine) yang melapisi konten tombol."
 
 # game/indepth_style.rpy:668
 translate indonesian style_button_c0b1b62e:
 
     # e "There are also a few style properties that only apply to buttons. The hover_sound and activate_sound properties play sound files when a button is focused and activated, respectively."
-    e ""
+    e "Ada juga beberapa properti gaya yang hanya berlaku untuk tombol. Properti 'hover_sound' dan 'activate_sound' masing-masing memainkan file suara saat tombol difokuskan dan diaktifkan."
 
 # game/indepth_style.rpy:677
 translate indonesian style_button_02fa647e:
 
     # e "Finally, the focus_mask property applies to partially transparent buttons. When it's set to True, only areas of the button that aren't transparent cause a button to focus."
-    e ""
+    e "Terakhir, properti 'focus_mask' berlaku untuk tombol yang transparan sebagian. Saat diatur ke True, hanya area tombol yang tidak transparan yang dapat membuat tombol fokus."
 
 # game/indepth_style.rpy:757
 translate indonesian style_bar_414d454a:
 
     # e "To demonstrate styles, let me first show two of the images we'll be using. This is the image we're using for parts of the bar that are empty."
-    e ""
+    e "Untuk mendemonstrasikan gaya, izinkan saya menunjukkan dua gambar yang akan kita gunakan. Ini adalah gambar yang kita gunakan untuk bagian bar yang kosong."
 
 # game/indepth_style.rpy:761
 translate indonesian style_bar_9422b7b0:
 
     # e "And here's what we use for parts of the bar that are full."
-    e ""
+    e "Dan inilah yang kita gunakan untuk bagian bar yang penuh."
 
 # game/indepth_style.rpy:773
 translate indonesian style_bar_8ae6a14b:
 
     # e "The left_bar and right_bar style properties, and their hover variants, give displayables for the left and right side of the bar. By default, the value is shown on the left."
-    e ""
+    e "Properti gaya 'left_bar' dan 'right_bar', serta varian hover-nya, memberikan displayable untuk sisi kiri dan kanan bar. Secara default, nilai bar ditampilkan di sisi kiri."
 
 # game/indepth_style.rpy:775
 translate indonesian style_bar_7f0f50e5:
 
     # e "Also by default, both the left and right displayables are rendered at the full width of the bar, and then cropped to the appropriate size."
-    e ""
+    e "Juga secara default, displayable kiri dan kanan dirender pada lebar penuh bar, lalu dipotong (cropped) ke ukuran yang sesuai."
 
 # game/indepth_style.rpy:777
 translate indonesian style_bar_9ef4f62f:
 
     # e "We give the bar the ysize property to set how tall it is. We could also give it xsize to choose how wide, but here it's limited by the width of the frame it's in."
-    e ""
+    e "Kami memberikan properti 'ysize' pada bar untuk mengatur tingginya. Kami juga bisa memberikan 'xsize' untuk menentukan lebarnya, tetapi di sini lebarnya dibatasi oleh bingkai (frame) tempatnya berada."
 
 # game/indepth_style.rpy:790
 translate indonesian style_bar_d4c29710:
 
     # e "When the bar_invert style property is True, the bar value is displayed on the right side of the bar. The left_bar and right_bar displayables might also need to be swapped."
-    e ""
+    e "Ketika properti gaya 'bar_invert' bernilai True, nilai bar ditampilkan di sisi kanan. Displayable 'left_bar' dan 'right_bar' mungkin juga perlu ditukar posisinya."
 
 # game/indepth_style.rpy:804
 translate indonesian style_bar_cca67222:
 
     # e "The bar_resizing style property causes the bar images to be resized to represent the value, rather than being rendered at full size and cropped."
-    e ""
+    e "Properti gaya 'bar_resizing' menyebabkan gambar bar diubah ukurannya (resized) untuk mewakili nilainya, alih-alih dirender pada ukuran penuh lalu dipotong."
 
 # game/indepth_style.rpy:817
 translate indonesian style_bar_7d361bac:
 
     # e "The thumb style property gives a thumb image, that's placed based on the bar's value. In the case of a scrollbar, it's resized if possible." id style_bar_7d361bac
-    e "" id style_bar_7d361bac
+    e "Properti gaya 'thumb' memberikan gambar thumb (pegangan penggeser), yang ditempatkan berdasarkan nilai bar. Dalam kasus scrollbar, ukurannya akan diubah jika memungkinkan."
 
 # game/indepth_style.rpy:819
 translate indonesian style_bar_b6dfb61b:
 
     # e "Here, we use it with the base_bar style property, which sets both bar images to the same displayable."
-    e ""
+    e "Di sini, kami menggunakannya dengan properti gaya 'base_bar', yang mengatur kedua gambar bar ke displayable yang sama."
 
 # game/indepth_style.rpy:834
 translate indonesian style_bar_996466ad:
 
     # e "The left_gutter and right_gutter properties set a gutter on the left or right size of the bar. The gutter is space the bar can't be dragged into, that can be used for borders."
-    e ""
+    e "Properti 'left_gutter' dan 'right_gutter' mengatur gutter (celah) pada sisi kiri atau kanan bar. Gutter adalah ruang di mana bar tidak dapat digeser masuk, yang bisa digunakan untuk area pembatas (border)."
 
 # game/indepth_style.rpy:849
 translate indonesian style_bar_fa41a83c:
 
     # e "The bar_vertical style property displays a vertically oriented bar. All of the other properties change names - left_bar becomes top_bar, while right_bar becomes bottom_bar."
-    e ""
+    e "Properti gaya 'bar_vertical' menampilkan bar dengan orientasi vertikal. Semua properti lainnya akan berubah nama — 'left_bar' menjadi 'top_bar', sedangkan 'right_bar' menjadi 'bottom_bar'."
 
 # game/indepth_style.rpy:854
 translate indonesian style_bar_5d33c5dc:
 
     # e "Finally, there's one style we can't show here, and it's unscrollable. It controls what happens when a scrollbar can't be moved at all."
-    e ""
+    e "Terakhir, ada satu gaya yang tidak bisa kami tunjukkan di sini, yaitu 'unscrollable'. Ini mengontrol apa yang terjadi saat scrollbar tidak dapat digerakkan sama sekali."
 
 # game/indepth_style.rpy:856
 translate indonesian style_bar_e8e32280:
 
     # e "By default, it's shown. But if unscrollable is 'insensitive', the bar becomes insensitive. If it's 'hide', the bar is hidden, but still takes up space."
-    e ""
+    e "Secara default, bar akan tetap ditampilkan. Namun jika 'unscrollable' diatur ke 'insensitive', bar tersebut menjadi tidak aktif. Jika diatur ke 'hide', bar akan disembunyikan tetapi tetap memakan ruang."
 
 # game/indepth_style.rpy:860
 translate indonesian style_bar_f1292000:
 
     # e "That's it for the bar properties. By using them, a creator can customize bars, scrollbars, and sliders."
-    e ""
+    e "Itu saja untuk properti bar. Dengan menggunakannya, seorang pembuat dapat menyesuaikan bar, scrollbar, dan slider."
 
 # game/indepth_style.rpy:959
 translate indonesian style_box_5fd535f4:
 
     # e "The hbox displayable is used to lay its children out horizontally. By default, there's no spacing between children, so they run together."
-    e ""
+    e "Displayable 'hbox' digunakan untuk menyusun elemen anaknya (children) secara horizontal. Secara default, tidak ada jarak di antara anak-anaknya, sehingga mereka akan menempel satu sama lain."
 
 # game/indepth_style.rpy:965
 translate indonesian style_box_0111e5dc:
 
     # e "Similarly, the vbox displayable is used to lay its children out vertically. Both support style properties that control placement."
-    e ""
+    e "Demikian pula, displayable 'vbox' digunakan untuk menyusun anak-anaknya secara vertikal. Keduanya mendukung properti gaya yang mengontrol penempatan."
 
 # game/indepth_style.rpy:970
 translate indonesian style_box_5a44717b:
 
     # e "To make the size of the box displayable obvious, I'll add a highlight to the box itself, and not the frame containing it."
-    e ""
+    e "Untuk memperjelas ukuran dari displayable box tersebut, saya akan menambahkan sorotan (highlight) pada box itu sendiri, bukan pada frame yang menampungnya."
 
 # game/indepth_style.rpy:978
 translate indonesian style_box_239e7a8f:
 
     # e "Boxes support the xfill and yfill style properties. These properties make a box expand to fill the available space, rather than the space of the largest child."
-    e ""
+    e "Box mendukung properti gaya 'xfill' dan 'yfill'. Properti ini membuat box melebar untuk mengisi ruang yang tersedia, alih-alih hanya mengikuti ukuran anak terbesarnya."
 
 # game/indepth_style.rpy:988
 translate indonesian style_box_e513c946:
 
     # e "The spacing style property takes a value in pixels, and adds that much spacing between each child of the box."
-    e ""
+    e "Properti gaya 'spacing' menerima nilai dalam piksel, dan menambahkan jarak sebesar itu di antara setiap anak di dalam box."
 
 # game/indepth_style.rpy:998
 translate indonesian style_box_6ae4f94d:
 
     # e "The first_spacing style property is similar, but it only adds space between the first and second children. This is useful when the first child is a title that needs different spacing."
-    e ""
+    e "Properti gaya 'first_spacing' serupa, tetapi hanya menambahkan ruang di antara anak pertama dan kedua. Ini berguna ketika anak pertama adalah judul yang membutuhkan spasi berbeda."
 
 # game/indepth_style.rpy:1008
 translate indonesian style_box_0c518d9f:
 
     # e "The box_reverse style property reverses the order of entries in the box."
-    e ""
+    e "Properti gaya 'box_reverse' membalikkan urutan entri di dalam box."
 
 # game/indepth_style.rpy:1021
 translate indonesian style_box_f73c1422:
 
     # e "We'll switch back to a horizontal box for our next example."
-    e ""
+    e "Kita akan beralih kembali ke box horizontal untuk contoh berikutnya."
 
 # game/indepth_style.rpy:1031
 translate indonesian style_box_285592bb:
 
     # e "The box_wrap style property fills the box with children until it's full, then starts again on the next line."
-    e ""
+    e "Properti gaya 'box_wrap' mengisi box dengan elemen anak sampai penuh, lalu mulai lagi pada baris berikutnya."
 
 # game/indepth_style.rpy:1044
 translate indonesian style_box_a7637552:
 
     # e "Grids bring with them two more style properties. The xspacing and yspacing properties control spacing in the horizontal and vertical directions, respectively."
-    e ""
+    e "Grid membawa dua properti gaya lagi. Properti 'xspacing' dan 'yspacing' masing-masing mengontrol spasi dalam arah horizontal dan vertikal."
 
 # game/indepth_style.rpy:1051
 translate indonesian style_box_4006f74b:
 
     # e "Lastly, we have the fixed layout. The fixed layout usually expands to fill all space, and shows its children from back to front."
-    e ""
+    e "Terakhir, kita memiliki layout 'fixed'. Layout fixed biasanya melebar untuk mengisi semua ruang, dan menampilkan elemen anaknya dari belakang ke depan."
 
 # game/indepth_style.rpy:1053
 translate indonesian style_box_4a2866f0:
 
     # e "But of course, we have some style properties that can change that."
-    e ""
+    e "Namun tentu saja, kita memiliki beberapa properti gaya yang dapat mengubah hal itu."
 
 # game/indepth_style.rpy:1062
 translate indonesian style_box_66e042c4:
 
     # e "When the xfit style property is True, the fixed lays out all its children as if it was full size, and then shrinks in width to fit them. The yfit style works the same way, but in height."
-    e ""
+    e "Ketika properti gaya 'xfit' bernilai True, layout fixed menyusun semua anaknya seolah-olah dalam ukuran penuh, lalu mengecil lebarnya agar pas dengan mereka. Properti 'yfit' bekerja dengan cara yang sama, tetapi untuk tinggi."
 
 # game/indepth_style.rpy:1070
 translate indonesian style_box_6a593b10:
 
     # e "The order_reverse style property changes the order in which the children are shown. Instead of back-to-front, they're displayed front-to-back."
-    e ""
+    e "Properti gaya 'order_reverse' mengubah urutan tampilan elemen anak. Alih-alih dari belakang-ke-depan, mereka ditampilkan dari depan-ke-belakang."
 
 # game/indepth_style.rpy:1082
 translate indonesian style_inspector_21bc0709:
 
     # e "Sometimes it's hard to figure out what style is being used for a particular displayable. The displayable inspector can help with that."
-    e ""
+    e "Terkadang sulit untuk mengetahui gaya mana yang digunakan untuk displayable tertentu. Inspektur displayable dapat membantu dalam hal itu."
 
 # game/indepth_style.rpy:1084
 translate indonesian style_inspector_243c50f0:
 
     # e "To use it, place the mouse over a portion of the Ren'Py user interface, and hit shift+I. That's I for inspector."
-    e ""
+    e "Untuk menggunakannya, arahkan mouse ke bagian antarmuka pengguna Ren'Py, lalu tekan Shift+I. Itu I untuk 'inspector'."
 
 # game/indepth_style.rpy:1086
 translate indonesian style_inspector_bcbdc396:
 
     # e "Ren'Py will pop up a list of displayables the mouse is over. Next to each is the name of the style that displayable uses."
-    e ""
+    e "Ren'Py akan memunculkan daftar displayable yang ada di bawah kursor mouse. Di samping masing-masing adalah nama gaya yang digunakan displayable tersebut."
 
 # game/indepth_style.rpy:1088
 translate indonesian style_inspector_d981e5c8:
 
     # e "You can click on the name of the style to see where it gets its properties from."
-    e ""
+    e "Anda dapat mengklik nama gaya tersebut untuk melihat dari mana ia mendapatkan properti-propertinya."
 
 # game/indepth_style.rpy:1090
 translate indonesian style_inspector_ef46b86d:
 
     # e "By default, the inspector only shows interface elements like screens, and not images. Type shift+alt+I if you'd like to see images as well."
-    e ""
+    e "Secara default, inspektur hanya menunjukkan elemen antarmuka seperti screen (layar), dan bukan gambar. Tekan Shift+Alt+I jika Anda ingin melihat gambar juga."
 
 # game/indepth_style.rpy:1092
 translate indonesian style_inspector_b59c6b69:
 
     # e "You can try the inspector right now, by hovering this text and hitting shift+I."
-    e ""
-
+    e "Anda dapat mencoba inspektur tersebut sekarang juga dengan mengarahkan kursor ke teks ini dan menekan Shift+I."
+    
 translate indonesian strings:
 
     # game/indepth_style.rpy:20
