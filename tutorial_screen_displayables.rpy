@@ -644,7 +644,7 @@ translate indonesian strings:
 
     # game/tutorial_screen_displayables.rpy:9
     old "Windows and frames."
-    new "Jendela dan bingkai."
+    new "Windows dan frames."
 
     # game/tutorial_screen_displayables.rpy:9
     old "Buttons."
@@ -728,7 +728,7 @@ translate indonesian strings:
 
     # game/tutorial_screen_displayables.rpy:470
     old "Heal"
-    new "Sembuh"
+    new "Heal"
 
     # game/tutorial_screen_displayables.rpy:479
     old "This is a textbutton."
@@ -742,4 +742,3 @@ translate indonesian strings:
     old "You clicked the other button."
     new "Kamu mengklik tombol lainnya."
 
-    
