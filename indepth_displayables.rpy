@@ -88,19 +88,19 @@ translate indonesian simple_displayables_00603985:
 translate indonesian simple_displayables_d8b23480:
 
     # e "Frames might look a little weird in the abstract, but when used with a texture, you can see how we create scalable interface components."
-    e "Frame mungkin terlihat sedikit aneh secara teori, tetapi ketika digunakan dengan tekstur, Anda dapat melihat bagaimana kita membuat komponen antarmuka yang ukurannya dapat diubah-ubah."
+    e "Frame mungkin terlihat sedikit aneh secara teori, tetapi ketika digunakan dengan tekstur, kamu dapat melihat bagaimana kita membuat komponen antarmuka yang ukurannya dapat diubah-ubah."
 
 # game/indepth_displayables.rpy:132
 translate indonesian simple_displayables_ae3f35f5:
 
     # e "These are just the simplest displayables, the ones you'll use directly the most often."
-    e "Ini hanyalah displayable yang paling sederhana, yaitu yang akan paling sering Anda gunakan secara langsung."
+    e "Ini hanyalah displayable yang paling sederhana, yaitu yang akan paling sering kamu gunakan secara langsung."
 
 # game/indepth_displayables.rpy:134
 translate indonesian simple_displayables_de555a92:
 
     # e "You can even write custom displayables for minigames, if you're proficient at Python. But for many visual novels, these will be all you'll need."
-    e "Anda bahkan dapat menulis displayable khusus untuk minigame jika Anda mahir dalam Python. Namun untuk kebanyakan visual novel, ini saja sudah cukup."
+    e "Kamu bahkan dapat menulis displayable khusus untuk minigame jika kamu mahir dalam Python. Namun untuk kebanyakan visual novel, ini saja sudah cukup."
 
 translate indonesian strings:
 

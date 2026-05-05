@@ -4,7 +4,7 @@
 translate indonesian new_gui_17a0326e:
 
     # e "When you create a new project, Ren'Py will automatically create a GUI - a Graphical User Interface - for it."
-    e "Saat Anda membuat proyek baru, Ren'Py akan secara otomatis membuat GUI - Graphical User Interface (Antarmuka Pengguna Grafis) - untuk proyek tersebut."
+    e "Saat kamu membuat proyek baru, Ren'Py akan secara otomatis membuat GUI - Graphical User Interface (Antarmuka Pengguna Grafis) - untuk proyek tersebut."
 
 # game/indepth_style.rpy:42
 translate indonesian new_gui_12c814ed:
@@ -16,7 +16,7 @@ translate indonesian new_gui_12c814ed:
 translate indonesian new_gui_0a2a73bb:
 
     # e "The default GUI is meant to be nice enough for a simple project. With a few small changes, it's what you're seeing in this game."
-    e "GUI default dirancang agar cukup bagus untuk proyek sederhana. Dengan beberapa perubahan kecil, itulah yang Anda lihat di game ini."
+    e "GUI default dirancang agar cukup bagus untuk proyek sederhana. Dengan beberapa perubahan kecil, itulah yang kamu lihat di game ini."
 
 # game/indepth_style.rpy:46
 translate indonesian new_gui_22adf68e:
@@ -34,7 +34,7 @@ translate indonesian new_gui_da21de30:
 translate indonesian new_gui_45765574:
 
     # e "We've put an extensive guide to customizing the GUI on the Ren'Py website. So if you want to learn more, visit the {a=https://www.renpy.org/doc/html/gui.html}GUI customization guide{/a}."
-    e "Kami telah menyediakan panduan ekstensif untuk menyesuaikan GUI di situs web Ren'Py. Jadi, jika Anda ingin mempelajari lebih lanjut, kunjungi {a=https://www.renpy.org/doc/html/gui.html}panduan kustomisasi GUI{/a}."
+    e "Kami telah menyediakan panduan ekstensif untuk menyesuaikan GUI di situs web Ren'Py. Jadi, jika kamu ingin mempelajari lebih lanjut, kunjungi {a=https://www.renpy.org/doc/html/gui.html}panduan kustomisasi GUI{/a}."
 
 # game/indepth_style.rpy:58
 translate indonesian styles_fa345a38:
@@ -46,13 +46,13 @@ translate indonesian styles_fa345a38:
 translate indonesian styles_6189ee12:
 
     # e "While the default GUI uses variables to provide styles with sensible defaults, if you're replacing the GUI or creating your own screens, you'll need to learn about styles yourself."
-    e "Meskipun GUI default menggunakan variabel untuk memberikan gaya dengan standar yang wajar, jika Anda mengganti GUI atau membuat layar (screen) sendiri, Anda harus mempelajari tentang gaya secara mandiri."
+    e "Meskipun GUI default menggunakan variabel untuk memberikan gaya dengan standar yang wajar, jika kamu mengganti GUI atau membuat layar (screen) sendiri, kamu harus mempelajari tentang gaya secara mandiri."
 
 # game/indepth_style.rpy:68
 translate indonesian styles_menu_a4a6913e:
 
     # e "What would you like to know about styles?" nointeract
-    e "Apa yang ingin Anda ketahui tentang gaya?" nointeract
+    e "Apa yang ingin kamu ketahui tentang gaya?" nointeract
 
 # game/indepth_style.rpy:98
 translate indonesian style_basics_9a79ef89:
@@ -178,13 +178,13 @@ translate indonesian style_basics_7a58037e:
 translate indonesian style_basics_0cdcb8c3:
 
     # e "This screen shows the style prefixes in action. You can click on a button to select it, or click outside to advance."
-    e "Layar ini menunjukkan cara kerja awalan gaya (style prefixes). Anda dapat mengklik tombol untuk memilihnya, atau klik di luar untuk melanjutkan."
+    e "Layar ini menunjukkan cara kerja awalan gaya (style prefixes). kamu dapat mengklik tombol untuk memilihnya, atau klik di luar untuk melanjutkan."
 
 # game/indepth_style.rpy:240
 translate indonesian style_basics_aed05094:
 
     # e "Those are the basics of styles. If GUI customization isn't enough for you, styles let you customize just about everything in Ren'Py."
-    e "Itulah dasar-dasar gaya. Jika kustomisasi GUI saja tidak cukup bagi Anda, sistem gaya memungkinkan Anda menyesuaikan hampir segala hal di Ren'Py."
+    e "Itulah dasar-dasar gaya. Jika kustomisasi GUI saja tidak cukup bagi kamu, sistem gaya memungkinkan kamu menyesuaikan hampir segala hal di Ren'Py."
 
 # game/indepth_style.rpy:253
 translate indonesian style_general_81f3c8ff:
@@ -280,7 +280,7 @@ translate indonesian style_text_14bd6327:
 translate indonesian style_text_779ac517:
 
     # e "The font style property changes the font the text uses. Ren'Py takes TrueType and OpenType fonts, and you'll have to include the font file as part of your visual novel."
-    e "Properti gaya 'font' mengubah jenis huruf yang digunakan teks. Ren'Py menerima font TrueType (.ttf) dan OpenType (.otf), dan Anda harus menyertakan file font tersebut sebagai bagian dari novel visual Anda."
+    e "Properti gaya 'font' mengubah jenis huruf yang digunakan teks. Ren'Py menerima font TrueType (.ttf) dan OpenType (.otf), dan kamu harus menyertakan file font tersebut sebagai bagian dari novel visual kamu."
 
 # game/indepth_style.rpy:379
 translate indonesian style_text_917e2bca:
@@ -292,7 +292,7 @@ translate indonesian style_text_917e2bca:
 translate indonesian style_text_1a46cd43:
 
     # e "The italic property makes the text italic. Again, this is better done with a font, but for short amounts of text Ren'Py can do it for you."
-    e "Properti 'italic' membuat teks menjadi miring. Sekali lagi, ini lebih baik dilakukan dengan font khusus, tetapi untuk teks yang singkat, Ren'Py dapat melakukannya untuk Anda."
+    e "Properti 'italic' membuat teks menjadi miring. Sekali lagi, ini lebih baik dilakukan dengan font khusus, tetapi untuk teks yang singkat, Ren'Py dapat melakukannya untuk kamu."
 
 # game/indepth_style.rpy:397
 translate indonesian style_text_472f382d:
@@ -322,7 +322,7 @@ translate indonesian style_text_aee9277a:
 translate indonesian style_text_b4c5190f:
 
     # e "But if you ignore the brackets and parenthesis, you have the width of the outline, the color, and then horizontal and vertical offsets."
-    e "Namun jika Anda mengabaikan kurung siku dan kurung biasa, Anda akan melihat lebar garis tepi, warna, lalu pergeseran (offset) horizontal dan vertikal."
+    e "Namun jika kamu mengabaikan kurung siku dan kurung biasa, kamu akan melihat lebar garis tepi, warna, lalu pergeseran (offset) horizontal dan vertikal."
 
 # game/indepth_style.rpy:434
 translate indonesian style_text_5a0c2c02:
@@ -340,7 +340,7 @@ translate indonesian style_text_430c1959:
 translate indonesian style_text_19aa0833:
 
     # e "It doesn't change the position of the text displayable itself. For that, you'll often want to set the textalign and xalign to the same value." id style_text_19aa0833
-    e "Ini tidak mengubah posisi dari displayable teks itu sendiri. Untuk itu, Anda biasanya perlu mengatur 'textalign' dan 'xalign' ke nilai yang sama." id style_text_19aa0833
+    e "Ini tidak mengubah posisi dari displayable teks itu sendiri. Untuk itu, kamu biasanya perlu mengatur 'textalign' dan 'xalign' ke nilai yang sama." id style_text_19aa0833
 
 # game/indepth_style.rpy:455
 translate indonesian style_text_efc3c392:
@@ -358,7 +358,7 @@ translate indonesian style_text_43be63b9:
 translate indonesian style_text_343f6d34:
 
     # e "Those are the most common text style properties, but not the only ones. Here are a few more that you might need in special circumstances."
-    e "Itulah properti gaya teks yang paling umum, tetapi bukan satu-satunya. Berikut adalah beberapa lagi yang mungkin Anda butuhkan dalam keadaan khusus."
+    e "Itulah properti gaya teks yang paling umum, tetapi bukan satu-satunya. Berikut adalah beberapa lagi yang mungkin kamu butuhkan dalam keadaan khusus."
 
 # game/indepth_style.rpy:479
 translate indonesian style_text_e7204a95:
@@ -394,7 +394,7 @@ translate indonesian style_text_785729cf:
 translate indonesian style_text_9c26f218:
 
     # e "The strikethrough property draws a line through the text. It seems pretty unlikely you'd want to use this one."
-    e "Properti 'strikethrough' menggambar garis yang mencoret teks. Sepertinya kecil kemungkinan Anda ingin menggunakan yang satu ini."
+    e "Properti 'strikethrough' menggambar garis yang mencoret teks. Sepertinya kecil kemungkinan kamu ingin menggunakan yang satu ini."
 
 # game/indepth_style.rpy:534
 translate indonesian style_text_c7229243:
@@ -406,7 +406,7 @@ translate indonesian style_text_c7229243:
 translate indonesian style_text_724bd5e0:
 
     # e "And those are the text style properties. There might be a lot of them, but we want to give you a lot of control over how you present text to your players."
-    e "Dan itulah properti gaya teks. Mungkin jumlahnya banyak, tetapi kami ingin memberi Anda kontrol penuh atas cara Anda menyajikan teks kepada pemain."
+    e "Dan itulah properti gaya teks. Mungkin jumlahnya banyak, tetapi kami ingin memberi kamu kontrol penuh atas cara kamu menyajikan teks kepada pemain."
 
 # game/indepth_style.rpy:580
 translate indonesian style_button_300b6af5:
@@ -690,19 +690,19 @@ translate indonesian style_inspector_bcbdc396:
 translate indonesian style_inspector_d981e5c8:
 
     # e "You can click on the name of the style to see where it gets its properties from."
-    e "Anda dapat mengklik nama gaya tersebut untuk melihat dari mana ia mendapatkan properti-propertinya."
+    e "Kamu dapat mengklik nama gaya tersebut untuk melihat dari mana ia mendapatkan properti-propertinya."
 
 # game/indepth_style.rpy:1090
 translate indonesian style_inspector_ef46b86d:
 
     # e "By default, the inspector only shows interface elements like screens, and not images. Type shift+alt+I if you'd like to see images as well."
-    e "Secara default, inspektur hanya menunjukkan elemen antarmuka seperti screen (layar), dan bukan gambar. Tekan Shift+Alt+I jika Anda ingin melihat gambar juga."
+    e "Secara default, inspektur hanya menunjukkan elemen antarmuka seperti screen (layar), dan bukan gambar. Tekan Shift+Alt+I jika kamu ingin melihat gambar juga."
 
 # game/indepth_style.rpy:1092
 translate indonesian style_inspector_b59c6b69:
 
     # e "You can try the inspector right now, by hovering this text and hitting shift+I."
-    e "Anda dapat mencoba inspektur tersebut sekarang juga dengan mengarahkan kursor ke teks ini dan menekan Shift+I."
+    e "Kamu dapat mencoba inspektur tersebut sekarang juga dengan mengarahkan kursor ke teks ini dan menekan Shift+I."
     
 translate indonesian strings:
 

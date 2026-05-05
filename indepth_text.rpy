@@ -4,7 +4,7 @@
 translate indonesian a_label_8d79d234:
 
     # e "You just clicked to jump to a label."
-    e "Anda baru saja mengklik untuk melompat ke sebuah label."
+    e "kamu baru saja mengklik untuk melompat ke sebuah label."
 
 # game/indepth_text.rpy:28
 translate indonesian text_578c4060:
@@ -34,7 +34,7 @@ translate indonesian text_38c63ec8:
 translate indonesian text_1760f9c8:
 
     # e "We've already seen the b, i, s, and u tags, but there are lot more than those. I'll show you the rest of them."
-    e "Kita sudah melihat tag b, i, s, dan u, tetapi masih banyak tag lainnya. Saya akan menunjukkan sisanya kepada Anda."
+    e "Kita sudah melihat tag b, i, s, dan u, tetapi masih banyak tag lainnya. Saya akan menunjukkan sisanya kepada mu."
 
 # game/indepth_text.rpy:43
 translate indonesian text_a620251f:
@@ -136,7 +136,7 @@ translate indonesian after_a_label_1f2697ba:
 translate indonesian after_a_label_dbfca166:
 
     # e "To break a line without pausing,\none can write \\n. \\' and \\\" include quotes in the text."
-    e "Untuk memutus baris tanpa jeda,\nAnda bisa menulis \\n. \\' dan \\\" digunakan untuk menyertakan tanda kutip di dalam teks."
+    e "Untuk memutus baris tanpa jeda,\nkamu bisa menulis \\n. \\' dan \\\" digunakan untuk menyertakan tanda kutip di dalam teks."
 
 # game/indepth_text.rpy:111
 translate indonesian after_a_label_ffdf7e76:

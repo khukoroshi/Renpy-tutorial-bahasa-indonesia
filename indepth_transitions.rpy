@@ -4,23 +4,23 @@
 translate indonesian demo_transitions_5bbc72fe:
 
     # e "Ren'Py ships with a large number of built-in transitions, and also includes classes that let you define your own."
-    e "Ren'Py hadir dengan banyak sekali transisi bawaan, dan juga menyertakan kelas-kelas yang memungkinkan Anda menentukan transisi Anda sendiri."
+    e "Ren'Py hadir dengan banyak sekali transisi bawaan, dan juga menyertakan kelas-kelas yang memungkinkan kamu menentukan transisi kamu sendiri."
 
 # game/indepth_transitions.rpy:60
 translate indonesian demo_transitions_menu_3caf78d3:
 
     # e "What kind of transitions would you like demonstrated?"
-    e "Jenis transisi apa yang ingin Anda lihat demonstrasinya?" 
+    e "Jenis transisi apa yang ingin kamu lihat demonstrasinya?" 
 # game/indepth_transitions.rpy:95
 translate indonesian demo_simple_transitions_2b4fbae3:
 
     # e "Okay, I can tell you about simple transitions. We call them simple because they don't take much in the way of configuration."
-    e "Oke, saya bisa memberitahu Anda tentang transisi sederhana. Kami menyebutnya sederhana karena tidak memerlukan banyak konfigurasi." 
+    e "Oke, saya bisa memberitahu kamu tentang transisi sederhana. Kami menyebutnya sederhana karena tidak memerlukan banyak konfigurasi." 
 # game/indepth_transitions.rpy:97
 translate indonesian demo_simple_transitions_4b235ac2:
 
     # e "But don't let that get you down, since they're the transitions you'll probably use the most in a game."
-    e "Tapi jangan biarkan hal itu membuat Anda kecewa, karena itu adalah transisi yang kemungkinan besar akan paling sering Anda gunakan dalam sebuah game." 
+    e "Tapi jangan biarkan hal itu membuat kamu kecewa, karena itu adalah transisi yang kemungkinan besar akan paling sering kamu gunakan dalam sebuah game." 
 # game/indepth_transitions.rpy:103
 translate indonesian demo_simple_transitions_af0431ac:
 
@@ -30,7 +30,7 @@ translate indonesian demo_simple_transitions_af0431ac:
 translate indonesian demo_simple_transitions_5b9f711f:
 
     # e "The 'Dissolve' function lets you create your own dissolves, taking a different amount of time."
-    e "Fungsi 'Dissolve' memungkinkan Anda membuat dissolve sendiri, dengan durasi waktu yang berbeda." 
+    e "Fungsi 'Dissolve' memungkinkan kamu membuat dissolve sendiri, dengan durasi waktu yang berbeda." 
 # game/indepth_transitions.rpy:116
 translate indonesian demo_simple_transitions_79816523:
 
@@ -40,12 +40,12 @@ translate indonesian demo_simple_transitions_79816523:
 translate indonesian demo_simple_transitions_141bb95d:
 
     # e "If you're going to stay at a black screen, you'll probably want to use 'dissolve' rather than 'fade'."
-    e "Jika Anda akan tetap berada di layar hitam, Anda mungkin ingin menggunakan 'dissolve' daripada 'fade'." 
+    e "Jika kamu akan tetap berada di layar hitam, kamu mungkin ingin menggunakan 'dissolve' daripada 'fade'." 
 # game/indepth_transitions.rpy:123
 translate indonesian demo_simple_transitions_f059f4ae:
 
     # e "You can use 'Fade' to define your own fades. By changing the timing and the color faded to, you can use this for special effects, like flashbulbs."
-    e "Anda dapat menggunakan 'Fade' untuk menentukan fade Anda sendiri. Dengan mengubah waktu dan warna tujuannya, Anda dapat menggunakan ini untuk efek khusus, seperti lampu kilat kamera." 
+    e "Kamu dapat menggunakan 'Fade' untuk menentukan fade kamu sendiri. Dengan mengubah waktu dan warna tujuannya, kamu dapat menggunakan ini untuk efek khusus, seperti lampu kilat kamera." 
 
 # game/indepth_transitions.rpy:129
 translate indonesian demo_simple_transitions_e948905b:
@@ -63,7 +63,7 @@ translate indonesian demo_simple_transitions_6a1ae05f:
 translate indonesian demo_simple_transitions_bdfcd85a:
 
     # e "You can use 'Pixellate' to change the details of the pixellation."
-    e "Anda dapat menggunakan 'Pixellate' untuk mengubah rincian pikselasinya." 
+    e "Kamu dapat menggunakan 'Pixellate' untuk mengubah rincian pikselasinya." 
 
 # game/indepth_transitions.rpy:136
 translate indonesian demo_simple_transitions_432f7224:
@@ -99,7 +99,7 @@ translate indonesian demo_simple_transitions_fce83e12:
 translate indonesian demo_simple_transitions_1050b6a4:
 
     # e "The 'move' transition finds images that have changed placement, and slides them to their new place. It's an easy way to get motion in your game."
-    e "Transisi 'move' menemukan gambar yang posisinya berubah, lalu menggesernya ke tempat baru. Ini adalah cara mudah untuk mendapatkan gerakan di dalam game Anda." 
+    e "Transisi 'move' menemukan gambar yang posisinya berubah, lalu menggesernya ke tempat baru. Ini adalah cara mudah untuk mendapatkan gerakan di dalam game kamu." 
 
 # game/indepth_transitions.rpy:168
 translate indonesian demo_simple_transitions_dc776e59:
@@ -111,7 +111,7 @@ translate indonesian demo_simple_transitions_dc776e59:
 translate indonesian demo_imagedissolve_transitions_2db67018:
 
     # e "Perhaps the most flexible kind of transition is the ImageDissolve, which lets you use an image to control a dissolve."
-    e "Mungkin jenis transisi yang paling fleksibel adalah ImageDissolve, yang memungkinkan Anda menggunakan gambar untuk mengontrol dissolve." 
+    e "Mungkin jenis transisi yang paling fleksibel adalah ImageDissolve, yang memungkinkan kamu menggunakan gambar untuk mengontrol dissolve." 
 
 # game/indepth_transitions.rpy:177
 translate indonesian demo_imagedissolve_transitions_429f8d03:
@@ -237,7 +237,7 @@ translate indonesian demo_cropmove_transitions_1711a91e:
 translate indonesian demo_cropmove_transitions_6d82cfd7:
 
     # e "I'll stand offscreen, so you can see some of its modes. I'll read out the mode name after each transition."
-    e "Saya akan berdiri di luar layar agar Anda bisa melihat beberapa modenya. Saya akan membacakan nama modenya setelah setiap transisi." 
+    e "Saya akan berdiri di luar layar agar kamu bisa melihat beberapa modenya. Saya akan membacakan nama modenya setelah setiap transisi." 
 
 # game/indepth_transitions.rpy:296
 translate indonesian demo_cropmove_transitions_4427c78c:
@@ -345,7 +345,7 @@ translate indonesian demo_cropmove_transitions_016a1e0a:
 translate indonesian demo_cropmove_transitions_08d753ed:
 
     # e "It's enough to make you feel a bit dizzy."
-    e "Ini sudah cukup membuat Anda merasa sedikit pusing." 
+    e "Ini sudah cukup membuat kamu merasa sedikit pusing." 
 
 # game/indepth_transitions.rpy:393
 translate indonesian demo_pushmove_transitions_003e506d:
@@ -435,7 +435,7 @@ translate indonesian demo_movetransition_dc5ccd54:
 translate indonesian demo_alphadissolve_51613c02:
 
     # e "The AlphaDissolve transition lets you use one displayable to combine two others. Click, and I'll show you an example."
-    e "Transisi AlphaDissolve memungkinkan Anda menggunakan satu displayable untuk menggabungkan dua lainnya. Klik, dan saya akan menunjukkan contohnya kepada Anda." 
+    e "Transisi AlphaDissolve memungkinkan kamu menggunakan satu displayable untuk menggabungkan dua lainnya. Klik, dan saya akan menunjukkan contohnya kepada kamu." 
 
 # game/indepth_transitions.rpy:518
 translate indonesian demo_alphadissolve_7c08cf8b:

@@ -46,7 +46,7 @@ translate indonesian demo_character_a9646dd8:
 translate indonesian demo_character_79793208:
 
     # e "This example shows how the name Character is a bit of a misnomer. Here, we have multiple Characters in use, but you see it as me speaking."
-    e "Contoh ini menunjukkan bahwa istilah 'Character' bisa sedikit membingungkan. Di sini, kita menggunakan beberapa Character, tetapi Anda melihatnya seolah-olah saya yang sedang berbicara."
+    e "Contoh ini menunjukkan bahwa istilah 'Character' bisa sedikit membingungkan. Di sini, kita menggunakan beberapa Character, tetapi kamu melihatnya seolah-olah saya yang sedang berbicara."
 
 # game/indepth_character.rpy:33
 translate indonesian demo_character_5d5d7482:
@@ -70,7 +70,7 @@ translate indonesian demo_character_7e0d75aa:
 translate indonesian demo_character_56703784:
 
     # e "If you leave a prefix out, the style customizes the name of the speaker."
-    e "Jika Anda tidak menyertakan awalan, gaya tersebut akan menyesuaikan nama pembicara."
+    e "Jika kamu tidak menyertakan awalan, gaya tersebut akan menyesuaikan nama pembicara."
 
 # game/indepth_character.rpy:43
 translate indonesian demo_character_b456f0a9:
@@ -160,7 +160,7 @@ translate indonesian demo_character_7c75906c:
 translate indonesian demo_character_e2811c1c:
 
     # e7 "Generally you'll want to to set them both what_xalign and what_textalign to the same value."
-    e7 "Umumnya Anda akan ingin mengatur baik 'what_xalign' maupun 'what_textalign' ke nilai yang sama."
+    e7 "Umumnya kamu akan ingin mengatur baik 'what_xalign' maupun 'what_textalign' ke nilai yang sama."
 
 # game/indepth_character.rpy:105
 translate indonesian demo_character_baa52234:
@@ -190,7 +190,7 @@ translate indonesian demo_character_a7f243e5:
 translate indonesian demo_character_f9b0052f:
 
     # e "By using kind, you can copy properties from one character to another, changing only what you need to."
-    e "Dengan menggunakan 'kind', Anda bisa menyalin properti dari satu karakter ke karakter lainnya, dan hanya mengubah bagian yang Anda perlukan saja."
+    e "Dengan menggunakan 'kind', kamu bisa menyalin properti dari satu karakter ke karakter lainnya, dan hanya mengubah bagian yang kamu perlukan saja."
 
 # game/indepth_character.rpy:148
 translate indonesian demo_character_6dfce4b7:
@@ -202,7 +202,7 @@ translate indonesian demo_character_6dfce4b7:
 translate indonesian demo_character_68d9e46c:
 
     # e "The last thing you have to know is that there's a special character, narrator, that speaks narration. Got it?"
-    e "Hal terakhir yang perlu Anda ketahui adalah ada karakter spesial, 'narrator', yang mengucapkan narasi. Mengerti?"
+    e "Hal terakhir yang perlu kamu ketahui adalah ada karakter spesial, 'narrator', yang mengucapkan narasi. Mengerti?"
 
 # game/indepth_character.rpy:159
 translate indonesian demo_character_0c8f314a:
