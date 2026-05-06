@@ -196,7 +196,7 @@ translate indonesian demo_character_f9b0052f:
 translate indonesian demo_character_6dfce4b7:
 
     # l8 "Like this! Finally I get some more dialogue around here."
-    l8 "Seperti ini! Akhirnya aku dapat bagian dialog lagi di sini."
+    l8 "Seperti ini! Akhirnya saya dapat bagian dialog lagi di sini."
 
 # game/indepth_character.rpy:157
 translate indonesian demo_character_68d9e46c:

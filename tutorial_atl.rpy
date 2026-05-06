@@ -4,7 +4,7 @@
 translate indonesian tutorial_positions_a09a3fd1:
 
     # e "In this tutorial, I'll teach you how Ren'Py positions things on the screen. But before that, let's learn a little bit about how Python handles numbers."
-    e "Dalam tutorial ini, saya akan mengajarkan Anda bagaimana Ren'Py menempatkan objek di layar. Namun sebelum itu, mari kita pelajari sedikit tentang bagaimana Python menangani angka."
+    e "Dalam tutorial ini, saya akan mengajarkan kamu bagaimana Ren'Py menempatkan objek di layar. Namun sebelum itu, mari kita pelajari sedikit tentang bagaimana Python menangani angka."
 
 # game/tutorial_atl.rpy:210
 translate indonesian tutorial_positions_ba39aabc:
@@ -34,7 +34,7 @@ translate indonesian tutorial_positions_8e7d3e52:
 translate indonesian tutorial_positions_fdcf9d8b:
 
     # e "Let me get out of the way, and I'll show you where some positions are."
-    e "Izinkan saya menyingkir sejenak, dan saya akan menunjukkan kepada Anda di mana letak beberapa posisi tersebut."
+    e "Izinkan saya menyingkir sejenak, dan saya akan menunjukkan kepada kamu di mana letak beberapa posisi tersebut."
 
 # game/tutorial_atl.rpy:232
 translate indonesian tutorial_positions_76d7a5bf:
@@ -76,7 +76,7 @@ translate indonesian tutorial_positions_16933a61:
 translate indonesian tutorial_positions_6eb36777:
 
     # e "A ypos of 1.0 specifies a position at the bottom of the screen. If you look carefully, you can see the position indicator spinning below the text window."
-    e "Ypos 1.0 menentukan posisi di bagian bawah layar. Jika Anda melihat dengan teliti, Anda bisa melihat indikator posisi berputar di bawah jendela teks."
+    e "Ypos 1.0 menentukan posisi di bagian bawah layar. Jika kamu melihat dengan teliti, kamu bisa melihat indikator posisi berputar di bawah jendela teks."
 
 # game/tutorial_atl.rpy:264
 translate indonesian tutorial_positions_a423050f:
@@ -88,7 +88,7 @@ translate indonesian tutorial_positions_a423050f:
 translate indonesian tutorial_positions_bc7a809a:
 
     # e "Can you guess where this position is, relative to the screen?" nointeract
-    e "Dapatkah Anda menebak di mana posisi ini berada, relatif terhadap layar?" nointeract
+    e "Dapatkah kamu menebak di mana posisi ini berada, relatif terhadap layar?" nointeract
 
 # game/tutorial_atl.rpy:276
 translate indonesian tutorial_positions_6f926e18:
@@ -106,7 +106,7 @@ translate indonesian tutorial_positions_5d5feb98:
 translate indonesian tutorial_positions_77b45218:
 
     # e "Good job! You got that position right."
-    e "Kerja bagus! Anda menjawab posisi itu dengan benar."
+    e "Kerja bagus! kamu menjawab posisi itu dengan benar."
 
 # game/tutorial_atl.rpy:286
 translate indonesian tutorial_positions_6f926e18_1:
@@ -226,7 +226,7 @@ translate indonesian tutorial_positions_1b1cedc6:
 translate indonesian tutorial_positions_e6da2798:
 
     # e "Of course, you can use negative numbers to offset things to the left and top."
-    e "Tentu saja, Anda dapat menggunakan angka negatif untuk menggeser objek ke arah kiri dan atas."
+    e "Tentu saja, kamu dapat menggunakan angka negatif untuk menggeser objek ke arah kiri dan atas."
 
 # game/tutorial_atl.rpy:407
 translate indonesian tutorial_positions_e0fe2d81:
@@ -238,7 +238,7 @@ translate indonesian tutorial_positions_e0fe2d81:
 translate indonesian tutorial_positions_0f4ca2b6:
 
     # e "Once you understand positions, you can use transformations to move things around the Ren'Py screen."
-    e "Setelah Anda memahami posisi, Anda dapat menggunakan transformasi untuk memindahkan objek di layar Ren'Py."
+    e "Setelah kamu memahami posisi, kamu dapat menggunakan transformasi untuk memindahkan objek di layar Ren'Py."
 
 # game/tutorial_atl.rpy:421
 translate indonesian tutorial_atl_d5d6b62a:
@@ -310,7 +310,7 @@ translate indonesian tutorial_atl_da7a7759:
 translate indonesian tutorial_atl_1dd345c6:
 
     # e "When ATL is used as part of a show statement, values of properties exist even when the transform is changed. So even though your click stopped the motion, the image remains in the same place." id tutorial_atl_1dd345c6
-    e "Saat ATL digunakan sebagai bagian dari pernyataan 'show', nilai properti tetap ada meskipun transformasi diubah. Jadi, meskipun klik Anda menghentikan gerakan, gambar tetap berada di tempat yang sama." id tutorial_atl_1dd345c6
+    e "Saat ATL digunakan sebagai bagian dari pernyataan 'show', nilai properti tetap ada meskipun transformasi diubah. Jadi, meskipun klik kamu menghentikan gerakan, gambar tetap berada di tempat yang sama." id tutorial_atl_1dd345c6
 
 # game/tutorial_atl.rpy:491
 translate indonesian tutorial_atl_98047789:
@@ -364,7 +364,7 @@ translate indonesian tutorial_atl_3d065074:
 translate indonesian tutorial_atl_60f2a5e8:
 
     # e "The final line is a repeat statement. This causes the current block of ATL to be restarted. You can only have one repeat statement per block."
-    e "Baris terakhir adalah pernyataan repeat. Ini menyebabkan blok ATL saat ini dimulai kembali. Anda hanya boleh memiliki satu pernyataan repeat per blok."
+    e "Baris terakhir adalah pernyataan repeat. Ini menyebabkan blok ATL saat ini dimulai kembali. kamu hanya boleh memiliki satu pernyataan repeat per blok."
 
 # game/tutorial_atl.rpy:546
 translate indonesian tutorial_atl_146cf4c4:
@@ -424,7 +424,7 @@ translate indonesian tutorial_atl_d3416d4f:
 translate indonesian tutorial_atl_4e7512ec:
 
     # e "The interpolation statement allows you to smoothly vary the value of a transform property, from an old to a new value."
-    e "Pernyataan interpolasi memungkinkan Anda untuk mengubah nilai properti transformasi secara halus, dari nilai lama ke nilai baru."
+    e "Pernyataan interpolasi memungkinkan kamu untuk mengubah nilai properti transformasi secara halus, dari nilai lama ke nilai baru."
 
 # game/tutorial_atl.rpy:590
 translate indonesian tutorial_atl_685eeeaa:
@@ -466,7 +466,7 @@ translate indonesian tutorial_atl_84b22ac0:
 translate indonesian tutorial_atl_331126c1:
 
     # e "Here, we have two new statements. The block statement allows you to include a block of ATL code. Since the repeat statement applies to blocks, this lets you repeat only part of an ATL transform."
-    e "Di sini, kita memiliki dua pernyataan baru. Pernyataan 'block' memungkinkan Anda untuk menyertakan blok kode ATL. Karena pernyataan 'repeat' berlaku untuk blok, ini memungkinkan Anda untuk mengulang hanya sebagian dari transformasi ATL."
+    e "Di sini, kita memiliki dua pernyataan baru. Pernyataan 'block' memungkinkan kamu untuk menyertakan blok kode ATL. Karena pernyataan 'repeat' berlaku untuk blok, ini memungkinkan kamu untuk mengulang hanya sebagian dari transformasi ATL."
 
 # game/tutorial_atl.rpy:639
 translate indonesian tutorial_atl_24f67b67:
@@ -496,13 +496,13 @@ translate indonesian tutorial_atl_5d0f8f9d:
 translate indonesian tutorial_atl_28a7d27e:
 
     # e "Finally, the choice statement makes Ren'Py randomly pick a block of ATL code. This allows you to add some variation as to what Ren'Py shows."
-    e "Terakhir, pernyataan 'choice' membuat Ren'Py memilih blok kode ATL secara acak. Ini memungkinkan Anda untuk menambahkan variasi pada apa yang ditampilkan Ren'Py."
+    e "Terakhir, pernyataan 'choice' membuat Ren'Py memilih blok kode ATL secara acak. Ini memungkinkan kamu untuk menambahkan variasi pada apa yang ditampilkan Ren'Py."
 
 # game/tutorial_atl.rpy:677
 translate indonesian tutorial_atl_2265254b:
 
     # e "This tutorial game has only scratched the surface of what you can do with ATL. For example, we haven't even covered the on and event statements. For more information, you might want to check out {a=https://renpy.org/doc/html/atl.html}the ATL chapter in the reference manual{/a}."
-    e "Game tutorial ini baru menyentuh permukaannya saja dari apa yang bisa Anda lakukan dengan ATL. Misalnya, kita bahkan belum membahas pernyataan 'on' dan 'event'. Untuk informasi lebih lanjut, Anda mungkin ingin memeriksa {a=https://renpy.org/doc/html/atl.html}bab ATL di manual referensi{/a}."
+    e "Game tutorial ini baru menyentuh permukaannya saja dari apa yang bisa kamu lakukan dengan ATL. Misalnya, kita bahkan belum membahas pernyataan 'on' dan 'event'. Untuk informasi lebih lanjut, kamu mungkin ingin memeriksa {a=https://renpy.org/doc/html/atl.html}bab ATL di manual referensi{/a}."
 
 # game/tutorial_atl.rpy:686
 translate indonesian transform_properties_391169cf:
@@ -514,7 +514,7 @@ translate indonesian transform_properties_391169cf:
 translate indonesian transform_properties_fc895a1f:
 
     # e "Here, we'll show them off so you can see them in action and get used to what each does."
-    e "Di sini, kami akan memamerkannya sehingga Anda dapat melihatnya beraksi dan terbiasa dengan fungsi masing-masing."
+    e "Di sini, kami akan memamerkannya sehingga kamu dapat melihatnya beraksi dan terbiasa dengan fungsi masing-masing."
 
 # game/tutorial_atl.rpy:703
 translate indonesian transform_properties_88daf990:
@@ -598,7 +598,7 @@ translate indonesian transform_properties_aee19f86:
 translate indonesian transform_properties_57b3235a:
 
     # e "By default, when a displayable is rotated, Ren'Py will include extra space on all four sides, so the size doesn't change as it rotates. Here, you can see the extra space on the left and top, and it's also there on the right and bottom."
-    e "Secara default, saat displayable diputar, Ren'Py akan menyertakan ruang ekstra di keempat sisi, sehingga ukurannya tidak berubah saat berputar. Di sini, Anda dapat melihat ruang ekstra di kiri dan atas, dan itu juga ada di kanan dan bawah."
+    e "Secara default, saat displayable diputar, Ren'Py akan menyertakan ruang ekstra di keempat sisi, sehingga ukurannya tidak berubah saat berputar. Di sini, kamu dapat melihat ruang ekstra di kiri dan atas, dan itu juga ada di kanan dan bawah."
 
 # game/tutorial_atl.rpy:872
 translate indonesian transform_properties_66d29ee8:
@@ -634,7 +634,7 @@ translate indonesian transform_properties_f34abd82:
 translate indonesian transform_properties_bfa3b139:
 
     # e "Those are all the transform properties we have to work with. By putting them together in the right order, you can create complex things."
-    e "Itu semua adalah properti transformasi yang bisa kita gunakan. Dengan menggabungkannya dalam urutan yang tepat, Anda dapat membuat hal-hal yang kompleks."
+    e "Itu semua adalah properti transformasi yang bisa kita gunakan. Dengan menggabungkannya dalam urutan yang tepat, kamu dapat membuat hal-hal yang kompleks."
 
 translate indonesian strings:
 

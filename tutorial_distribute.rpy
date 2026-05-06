@@ -58,7 +58,7 @@ translate indonesian distribute_50a57bcf:
 translate indonesian distribute_a9a2149f:
 
     # e "Rather than cover mobile here, I'll point you to the {a=https://www.renpy.org/doc/html/android.html}Android{/a} and {a=https://www.renpy.org/doc/html/ios.html}iOS{/a} documentation, where you can read more."
-    e "Dari pada membahas versi mobile disini, aku akan mengarahkan mu ke Dokumentasi {a=https://www.renpy.org/doc/html/android.html}Android{/a} dan {a=https://www.renpy.org/doc/html/ios.html}iOS{/a}, dimana kamu bisa membaca lebih lanjut."
+    e "Dari pada membahas versi mobile disini, saya akan mengarahkan mu ke Dokumentasi {a=https://www.renpy.org/doc/html/android.html}Android{/a} dan {a=https://www.renpy.org/doc/html/ios.html}iOS{/a}, dimana kamu bisa membaca lebih lanjut."
 
 # game/tutorial_distribute.rpy:29
 translate indonesian distribute_f1cbc9d0:
@@ -70,5 +70,5 @@ translate indonesian distribute_f1cbc9d0:
 translate indonesian distribute_500b3e7f:
 
     # e "I hope that soon, yours will be one of them!"
-    e "Aku harap sebentar lagi, milik kamu akan menjadi salah satunya!."
+    e "Saya harap sebentar lagi, milik kamu akan menjadi salah satunya!."
 

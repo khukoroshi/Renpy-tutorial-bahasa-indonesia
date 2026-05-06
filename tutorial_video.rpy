@@ -10,7 +10,7 @@ translate indonesian tutorial_video_f34a17f5:
 translate indonesian tutorial_video_4aefd413:
 
     # e "The first way allows you to show a movie as an image, along with every other image that's displayed on the screen."
-    e "Cara pertama memungkinkan anda menampilkan film sebagai gambar, bersama dengan seriap gambar lain yang ditampilkan di layar."
+    e "Cara pertama memungkinkan kamu menampilkan film sebagai gambar, bersama dengan seriap gambar lain yang ditampilkan di layar."
 
 # game/tutorial_video.rpy:16
 translate indonesian tutorial_video_b56ccf19:

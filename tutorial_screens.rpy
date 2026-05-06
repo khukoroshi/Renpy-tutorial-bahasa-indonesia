@@ -4,25 +4,25 @@
 translate indonesian tutorial_screens_2faa22e5:
 
     # e "Screens are the most powerful part of Ren'Py. Screens let you customize the out-of-game interface, and create new in-game interface components."
-    e "Layar (Screens) adalah bagian paling kuat dari Ren'Py. Layar memungkinkan Anda menyesuaikan antarmuka di luar permainan, dan membuat komponen antarmuka baru di dalam permainan."
+    e "Layar (Screens) adalah bagian paling kuat dari Ren'Py. Layar memungkinkan kamu menyesuaikan antarmuka di luar permainan, dan membuat komponen antarmuka baru di dalam permainan."
 
 # game/tutorial_screens.rpy:173
 translate indonesian screens_menu_7f31d730:
 
     # e "What would you like to know about screens?" nointeract
-    e "Apa yang ingin Anda ketahui tentang layar?" nointeract
+    e "Apa yang ingin kamu ketahui tentang layar?" nointeract
 
 # game/tutorial_screens.rpy:201
 translate indonesian screens_demo_115a4b8f:
 
     # e "Screens are how we create the user interface in Ren'Py. With the exception of images and transitions, everything you see comes from a screen."
-    e "Layar adalah cara kita membuat antarmuka pengguna di Ren'Py. Kecuali gambar dan transisi, semua yang Anda lihat berasal dari sebuah layar."
+    e "Layar adalah cara kita membuat antarmuka pengguna di Ren'Py. Kecuali gambar dan transisi, semua yang kamu lihat berasal dari sebuah layar."
 
 # game/tutorial_screens.rpy:203
 translate indonesian screens_demo_ce100e07:
 
     # e "When I'm speaking to you, I'm using the 'say' screen. It's responsible for taking dialogue and presenting it to the player."
-    e "Saat saya berbicara kepada Anda, saya menggunakan layar 'say'. Layar ini bertanggung jawab untuk mengambil dialog dan menyajikannya kepada pemain."
+    e "Saat saya berbicara kepada kamu, saya menggunakan layar 'say'. Layar ini bertanggung jawab untuk mengambil dialog dan menyajikannya kepada pemain."
 
 # game/tutorial_screens.rpy:207
 translate indonesian screens_demo_1bdfb4bd:
@@ -46,19 +46,19 @@ translate indonesian screens_demo_5a5aa2d5:
 translate indonesian screens_demo_58d48fde:
 
     # e "There are a lot of special screens, like 'main_menu', 'load', 'save', and 'preferences'. Rather than list them all here, I'll {a=https://www.renpy.org/doc/html/screen_special.html}send you to the documentation{/a}."
-    e "Ada banyak layar khusus, seperti 'main_menu', 'load', 'save', dan 'preferences'. Daripada mencantumkan semuanya di sini, saya akan {a=https://www.renpy.org/doc/html/screen_special.html}mengarahkan Anda ke dokumentasi{/a}."
+    e "Ada banyak layar khusus, seperti 'main_menu', 'load', 'save', dan 'preferences'. Daripada mencantumkan semuanya di sini, saya akan {a=https://www.renpy.org/doc/html/screen_special.html}mengarahkan kamu ke dokumentasi{/a}."
 
 # game/tutorial_screens.rpy:221
 translate indonesian screens_demo_27476d11:
 
     # e "In a newly created project, all these screens live in screens.rpy. You can edit that file in order to change them."
-    e "Dalam proyek yang baru dibuat, semua layar ini berada di 'screens.rpy'. Anda dapat mengedit file tersebut untuk mengubahnya."
+    e "Dalam proyek yang baru dibuat, semua layar ini berada di 'screens.rpy'. kamu dapat mengedit file tersebut untuk mengubahnya."
 
 # game/tutorial_screens.rpy:223
 translate indonesian screens_demo_a699b1cb:
 
     # e "You aren't limited to these screens either. In Ren'Py, you can make your own screens, and use them for your game's interface."
-    e "Anda juga tidak terbatas pada layar-layar ini saja. Di Ren'Py, Anda dapat membuat layar sendiri dan menggunakannya untuk antarmuka game Anda."
+    e "Kamu juga tidak terbatas pada layar-layar ini saja. Di Ren'Py, kamu dapat membuat layar sendiri dan menggunakannya untuk antarmuka game kamu."
 
 # game/tutorial_screens.rpy:230
 translate indonesian screens_demo_a136e191:
@@ -70,7 +70,7 @@ translate indonesian screens_demo_a136e191:
 translate indonesian screens_demo_1f50f3d3:
 
     # e "Which reminds me, I should probably heal you."
-    e "Yang mengingatkan saya, saya mungkin harus menyembuhkan Anda."
+    e "Yang mengingatkan saya, saya mungkin harus menyembuhkan kamu."
 
 # game/tutorial_screens.rpy:241
 translate indonesian screens_demo_8a54de7a:
@@ -100,7 +100,7 @@ translate indonesian screens_showing_5a6bbad0:
 translate indonesian screens_showing_ae40755c:
 
     # e "I'll work from the inside out to describe the statements. But first, I'll show the screen so you can see it in action."
-    e "Saya akan menjelaskannya dari bagian dalam ke luar. Tapi pertama-tama, saya akan menampilkan layarnya agar Anda bisa melihatnya beraksi."
+    e "Saya akan menjelaskannya dari bagian dalam ke luar. Tapi pertama-tama, saya akan menampilkan layarnya agar kamu bisa melihatnya beraksi."
 
 # game/tutorial_screens.rpy:274
 translate indonesian screens_showing_bc320819:
@@ -160,7 +160,7 @@ translate indonesian screens_showing_8f78a97d:
 translate indonesian screens_showing_b52e420c:
 
     # e "Since we can't display dialogue at the same time, you'll have to click 'Okay' to continue."
-    e "Karena kita tidak bisa menampilkan dialog pada saat yang sama, Anda harus mengklik 'Okay' untuk melanjutkan."
+    e "Karena kita tidak bisa menampilkan dialog pada saat yang sama, kamu harus mengklik 'Okay' untuk melanjutkan."
 
 # game/tutorial_screens.rpy:310
 translate indonesian screens_showing_c5ca730f:
@@ -172,7 +172,7 @@ translate indonesian screens_showing_c5ca730f:
 translate indonesian screens_showing_a38d1702:
 
     # e "Generally, you use show screen to show overlays that are up all the time, and call screen to show screens the player interacts with for a little while."
-    e "Umumnya, Anda menggunakan 'show screen' untuk menampilkan hamparan yang muncul terus-menerus, dan 'call screen' untuk menampilkan layar yang berinteraksi dengan pemain untuk sementara waktu."
+    e "Umumnya, kamu menggunakan 'show screen' untuk menampilkan hamparan yang muncul terus-menerus, dan 'call screen' untuk menampilkan layar yang berinteraksi dengan pemain untuk sementara waktu."
 
 # game/tutorial_screens.rpy:335
 translate indonesian screens_parameters_0666043d:
@@ -220,7 +220,7 @@ translate indonesian screens_properties_423246a2:
 translate indonesian screens_properties_4fde164e:
 
     # e "When the modal property is true, you can't interact with things beneath the screen. You'll have to click 'Close This Screen' before you can continue."
-    e "Ketika properti 'modal' bernilai true, Anda tidak dapat berinteraksi dengan apa pun di bawah layar tersebut. Anda harus mengklik 'Close This Screen' sebelum dapat melanjutkan."
+    e "Ketika properti 'modal' bernilai true, kamu tidak dapat berinteraksi dengan apa pun di bawah layar tersebut. kamu harus mengklik 'Close This Screen' sebelum dapat melanjutkan."
 
 # game/tutorial_screens.rpy:398
 translate indonesian screens_properties_550c0bea:
@@ -238,7 +238,7 @@ translate indonesian screens_properties_4fcf8af8:
 translate indonesian screens_properties_7ed5a791:
 
     # e "This is useful in the game and main menus, where you want the load screen to replace the preferences screen. By default, all those screens have tag menu."
-    e "Ini berguna pada menu game dan menu utama, di mana Anda ingin layar 'load' menggantikan layar 'preferences'. Secara default, semua layar tersebut memiliki tag 'menu'."
+    e "Ini berguna pada menu game dan menu utama, di mana kamu ingin layar 'load' menggantikan layar 'preferences'. Secara default, semua layar tersebut memiliki tag 'menu'."
 
 # game/tutorial_screens.rpy:408
 translate indonesian screens_properties_5d51bd1e:
@@ -292,7 +292,7 @@ translate indonesian screens_properties_c7ad3a8e:
 translate indonesian screens_control_4a1d8d7c:
 
     # e "The screen language has a few statements that do things other than show displayables. If you haven't seen the section on {a=jump:warp_screen_displayables}Screen Displayables{/a} yet, you might want to check it out, then come back here."
-    e "Bahasa layar memiliki beberapa pernyataan yang melakukan hal-hal selain menampilkan objek. Jika Anda belum melihat bagian tentang {a=jump:warp_screen_displayables}Screen Displayables{/a}, Anda mungkin ingin memeriksanya terlebih dahulu, lalu kembali ke sini."
+    e "Bahasa layar memiliki beberapa pernyataan yang melakukan hal-hal selain menampilkan objek. Jika kamu belum melihat bagian tentang {a=jump:warp_screen_displayables}Screen Displayables{/a}, kamu mungkin ingin memeriksanya terlebih dahulu, lalu kembali ke sini."
 
 # game/tutorial_screens.rpy:503
 translate indonesian screens_control_0e939050:
@@ -310,7 +310,7 @@ translate indonesian screens_control_6334650a:
 translate indonesian screens_control_ba8f5f13:
 
     # e "The Python you use in screens isn't allowed to have side effects. That means that it can't do things like change the value of a variable."
-    e "Python yang Anda gunakan di dalam layar tidak boleh memiliki efek samping. Itu berarti ia tidak bisa melakukan hal-hal seperti mengubah nilai sebuah variabel."
+    e "Python yang kamu gunakan di dalam layar tidak boleh memiliki efek samping. Itu berarti ia tidak bisa melakukan hal-hal seperti mengubah nilai sebuah variabel."
 
 # game/tutorial_screens.rpy:522
 translate indonesian screens_control_f75fa254:
@@ -322,7 +322,7 @@ translate indonesian screens_control_f75fa254:
 translate indonesian screens_control_40c12afa:
 
     # e "The default statement lets you set the value of a screen variable the first time the screen runs. This value can be changed with the SetScreenVariable and ToggleScreenVariable actions."
-    e "Pernyataan 'default' memungkinkan Anda menetapkan nilai variabel layar saat pertama kali layar dijalankan. Nilai ini dapat diubah dengan aksi 'SetScreenVariable' dan 'ToggleScreenVariable'."
+    e "Pernyataan 'default' memungkinkan kamu menetapkan nilai variabel layar saat pertama kali layar dijalankan. Nilai ini dapat diubah dengan aksi 'SetScreenVariable' dan 'ToggleScreenVariable'."
 
 # game/tutorial_screens.rpy:538
 translate indonesian screens_control_39e0f7e6:
@@ -364,7 +364,7 @@ translate indonesian screens_control_6768768b:
 translate indonesian screen_use_c6a20a16:
 
     # e "The screen language use statement lets you include a screen inside another. This can be useful to prevent duplication inside screens."
-    e "Pernyataan 'use' memungkinkan Anda memasukkan sebuah layar ke dalam layar lain. Ini berguna untuk mencegah duplikasi kode di dalam layar."
+    e "Pernyataan 'use' memungkinkan kamu memasukkan sebuah layar ke dalam layar lain. Ini berguna untuk mencegah duplikasi kode di dalam layar."
 
 # game/tutorial_screens.rpy:616
 translate indonesian screen_use_95a34d3a:
@@ -412,7 +412,7 @@ translate indonesian screen_use_1ad1f358:
 translate indonesian screen_use_f74fab6e:
 
     # e "Use and transclude are complex, but very powerful. If you think about it, 'use boilerplate' is only one step removed from writing your own Screen Language statement."
-    e "'Use' dan 'transclude' memang kompleks, tapi sangat hebat. Jika dipikir-pikir, 'use boilerplate' hanya selangkah lagi dari menulis pernyataan Bahasa Layar Anda sendiri."
+    e "'Use' dan 'transclude' memang kompleks, tapi sangat hebat. Jika dipikir-pikir, 'use boilerplate' hanya selangkah lagi dari menulis pernyataan Bahasa Layar kamu sendiri."
 
 translate indonesian strings:
 
@@ -510,7 +510,7 @@ translate indonesian strings:
 
     # game/tutorial_screens.rpy:331
     old "You can't cancel this."
-    new "Anda tidak bisa membatalkan ini."
+    new "Kamu tidak bisa membatalkan ini."
 
     # game/tutorial_screens.rpy:346
     old "Shiro was here."
@@ -534,11 +534,11 @@ translate indonesian strings:
 
     # game/tutorial_screens.rpy:447
     old "You're on a small device."
-    new "Anda menggunakan perangkat kecil."
+    new "Kamu menggunakan perangkat kecil."
 
     # game/tutorial_screens.rpy:452
     old "You're not on a small device."
-    new "Anda tidak menggunakan perangkat kecil."
+    new "Kamu tidak menggunakan perangkat kecil."
 
     # game/tutorial_screens.rpy:466
     old "This text is red."
@@ -578,7 +578,7 @@ translate indonesian strings:
 
     # game/tutorial_screens.rpy:585
     old "You pressed the 'a' key."
-    new "Anda menekan tombol 'a'."
+    new "Kamu menekan tombol 'a'."
 
     # game/tutorial_screens.rpy:608
     old "Health"

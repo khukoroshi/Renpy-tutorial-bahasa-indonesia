@@ -4,7 +4,7 @@
 translate indonesian translations_c4ef181f:
 
     # e "Ren'Py includes support for translating your game into languages other than the one it was originally written in."
-    e "Ren'Py menyertakan dukungan untuk menerjemahkan game Anda ke dalam bahasa lain selain bahasa asli yang digunakan saat game tersebut dibuat."
+    e "Ren'Py menyertakan dukungan untuk menerjemahkan game kamu ke dalam bahasa lain selain bahasa asli yang digunakan saat game tersebut dibuat."
 
 # game/indepth_translations.rpy:14
 translate indonesian translations_20b9a600:
@@ -16,7 +16,7 @@ translate indonesian translations_20b9a600:
 translate indonesian translations_07c7643c:
 
     # e "While Ren'Py can find dialogue and menu choice strings for you, you'll have to indicate which other strings need translation."
-    e "Meskipun Ren'Py dapat menemukan string dialog dan pilihan menu secara otomatis, Anda harus menandai sendiri string lain mana yang perlu diterjemahkan."
+    e "Meskipun Ren'Py dapat menemukan string dialog dan pilihan menu secara otomatis, kamu harus menandai sendiri string lain mana yang perlu diterjemahkan."
 
 # game/indepth_translations.rpy:20
 translate indonesian translations_317d73e5:
@@ -40,37 +40,37 @@ translate indonesian translations_c81acfc7:
 translate indonesian translations_8272a0ef:
 
     # e "Once that's done, you can generate the translation files. That's done by going to the launcher, and clicking translate."
-    e "Setelah itu selesai, Anda dapat membuat file terjemahan. Hal ini dilakukan dengan pergi ke launcher dan mengklik 'Translate'."
+    e "Setelah itu selesai, kamu dapat membuat file terjemahan. Hal ini dilakukan dengan pergi ke launcher dan mengklik 'Translate'."
 
 # game/indepth_translations.rpy:35
 translate indonesian translations_fde34832:
 
     # e "After you type in the name of the language you'll be translating to, choosing Generate Translations will scan your game and create translation files."
-    e "Setelah Anda mengetikkan nama bahasa tujuan, memilih 'Generate Translations' akan memindai game Anda dan membuat file terjemahan."
+    e "Setelah kamu mengetikkan nama bahasa tujuan, memilih 'Generate Translations' akan memindai game kamu dan membuat file terjemahan."
 
 # game/indepth_translations.rpy:37
 translate indonesian translations_e2ebb4af:
 
     # e "The files will be generated in game/tl/language, where language is the name of the language you typed in."
-    e "File akan dihasilkan di folder 'game/tl/bahasa', di mana 'bahasa' adalah nama bahasa yang Anda ketikkan sebelumnya."
+    e "File akan dihasilkan di folder 'game/tl/bahasa', di mana 'bahasa' adalah nama bahasa yang kamu ketikkan sebelumnya."
 
 # game/indepth_translations.rpy:39
 translate indonesian translations_28ec40b9:
 
     # e "You'll need to edit those files to include translations for everything in your game."
-    e "Anda perlu mengedit file-file tersebut untuk memasukkan terjemahan bagi segala hal yang ada di dalam game Anda."
+    e "Kamu perlu mengedit file-file tersebut untuk memasukkan terjemahan bagi segala hal yang ada di dalam game kamu."
 
 # game/indepth_translations.rpy:41
 translate indonesian translations_f6d3fd2d:
 
     # e "If you want to localize image files, you can also place them in game/tl/language."
-    e "Jika Anda ingin melokalisasi file gambar, Anda juga dapat menempatkannya di folder 'game/tl/bahasa'."
+    e "Jika kamu ingin melokalisasi file gambar, kamu juga dapat menempatkannya di folder 'game/tl/bahasa'."
 
 # game/indepth_translations.rpy:48
 translate indonesian translations_71bf6e72:
 
     # e "If the default fonts used by the game do not support the language you are translating to, you will have to change them."
-    e "Jika font default yang digunakan oleh game tidak mendukung karakter bahasa tujuan Anda, Anda harus mengubahnya."
+    e "Jika font default yang digunakan oleh game tidak mendukung karakter bahasa tujuan mu, kamu harus mengubahnya."
 
 # game/indepth_translations.rpy:50
 translate indonesian translations_82c9748e:
@@ -88,13 +88,13 @@ translate indonesian translations_a0042025:
 translate indonesian translations_b10990ce:
 
     # e "If you need to add new files, such as font files, you can place them into the game/tl/language directory where Ren'Py will find them."
-    e "Jika Anda perlu menambahkan file baru, seperti file font, Anda dapat menempatkannya ke dalam direktori 'game/tl/bahasa' agar Ren'Py dapat menemukannya."
+    e "Jika kamu perlu menambahkan file baru, seperti file font, kamu dapat menempatkannya ke dalam direktori 'game/tl/bahasa' agar Ren'Py dapat menemukannya."
 
 # game/indepth_translations.rpy:58
 translate indonesian translations_01fcacc2:
 
     # e "Finally, you'll have to add support for picking the language of the game. That usually goes into the preferences screen, found in screens.rpy."
-    e "Terakhir, Anda harus menambahkan dukungan untuk memilih bahasa di dalam game. Biasanya ini ditempatkan di layar preferensi (preferences), yang terdapat di screens.rpy."
+    e "Terakhir, kamu harus menambahkan dukungan untuk memilih bahasa di dalam game. Biasanya ini ditempatkan di layar preferensi (preferences), yang terdapat di screens.rpy."
 
 # game/indepth_translations.rpy:60
 translate indonesian translations_a91befcc:

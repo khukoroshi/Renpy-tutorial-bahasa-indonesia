@@ -76,7 +76,7 @@ translate indonesian tutorial_dialogue_112ff505:
 translate indonesian tutorial_dialogue_be2be31a:
 
     # e "But before I can show you how to write dialogue, let me show you how we present script examples."
-    e "Tapi sebelum aku menunjukkan cara menulis dialog, biarkan aku menunjukkan bagaimana kami menampilkan contoh skrip."
+    e "Tapi sebelum saya menunjukkan cara menulis dialog, biarkan saya menunjukkan bagaimana kami menampilkan contoh skrip."
 
 # game/tutorial_quickstart.rpy:74
 translate indonesian tutorial_dialogue_7b6be28e:
@@ -94,7 +94,7 @@ translate indonesian tutorial_dialogue_5269d005:
 translate indonesian tutorial_dialogue_241c0c74:
 
     # "Eileen" "Script might seem scary at first, but if you look you'll see it's easy to match it up to what I'm saying."
-    "Eileen" "Skrip mungkin terlihat menakutkan pada awalnya, tapi jika kamu perhatikan, sangat mudah untuk mencocokkannya dengan apa yang aku katakan."
+    "Eileen" "Skrip mungkin terlihat menakutkan pada awalnya, tapi jika kamu perhatikan, sangat mudah untuk mencocokkannya dengan apa yang saya katakan."
 
 # game/tutorial_quickstart.rpy:82
 translate indonesian tutorial_dialogue_f0d66410:
@@ -364,7 +364,7 @@ translate indonesian tutorial_images_f04e72ea:
 translate indonesian tutorial_images_d77ffa1c:
 
     # l "But what's the deal with me being in a cave? Eileen gets to be out in the sun, and I'm stuck here!"
-    l "Tapi apa-apaan ini aku ada di dalam gua? Eileen bisa berada di bawah sinar matahari, sedangkan aku terjebak di sini!"
+    l "Tapi apa-apaan ini saya ada di dalam gua? Eileen bisa berada di bawah sinar matahari, sedangkan saya terjebak di sini!"
 
 # game/tutorial_quickstart.rpy:242
 translate indonesian tutorial_images_6c0c938b:
@@ -412,7 +412,7 @@ translate indonesian tutorial_images_82fceeb8:
 translate indonesian tutorial_images_9defda43:
 
     # e "We also specify that it should be shown behind another image, in this case eileen. That's me."
-    e "Kita juga menentukan bahwa ia harus ditampilkan di belakang gambar lain, dalam hal ini eileen. Itu aku."
+    e "Kita juga menentukan bahwa ia harus ditampilkan di belakang gambar lain, dalam hal ini eileen. Itu saya."
 
 # game/tutorial_quickstart.rpy:264
 translate indonesian tutorial_images_73d331f7:
@@ -436,7 +436,7 @@ translate indonesian tutorial_images_e06fa53a:
 translate indonesian tutorial_simple_positions_b492e793:
 
     # e "When the standard positions that come with Ren'Py aren't enough for you, you can create your own. Here, I'll show you the easy way to do it."
-    e "Jika posisi standar bawaan Ren'Py tidak cukup bagimu, kamu bisa membuat posisimu sendiri. Di sini, aku akan menunjukkan cara mudah melakukannya."
+    e "Jika posisi standar bawaan Ren'Py tidak cukup bagimu, kamu bisa membuat posisimu sendiri. Di sini, saya akan menunjukkan cara mudah melakukannya."
 
 # game/tutorial_quickstart.rpy:291
 translate indonesian tutorial_simple_positions_04e3bc44:
@@ -754,13 +754,13 @@ translate indonesian choice1_done_88398d3e:
 translate indonesian choice1_done_2828dbfc:
 
     # e "For example, I remember that you plan to use menus in your game."
-    e "Sebagai contoh, aku ingat bahwa kamu berencana menggunakan menu di dalam gamemu."
+    e "Sebagai contoh, saya ingat bahwa kamu berencana menggunakan menu di dalam gamemu."
 
 # game/tutorial_quickstart.rpy:553
 translate indonesian choice1_done_503786e4:
 
     # e "For example, I remember that you're planning to make a kinetic novel, without menus."
-    e "Sebagai contoh, aku ingat bahwa kamu berencana membuat novel kinetik tanpa menu."
+    e "Sebagai contoh, saya ingat bahwa kamu berencana membuat novel kinetik tanpa menu."
 
 # game/tutorial_quickstart.rpy:555
 translate indonesian choice1_done_819e234a:
@@ -832,7 +832,7 @@ translate indonesian tutorial_input_c1f7a808:
 translate indonesian tutorial_input_f7757a8e:
 
     # g "I think I do."
-    g "Sepertinya aku mengerti."
+    g "Sepertinya saya mengerti."
 
 # game/tutorial_quickstart.rpy:619
 translate indonesian tutorial_input_0548d3e2:
@@ -848,11 +848,11 @@ translate indonesian strings:
 
     # game/tutorial_quickstart.rpy:497
     old "Yes, I do."
-    new "Ya, aku suka."
+    new "Ya, saya suka."
 
     # game/tutorial_quickstart.rpy:497
     old "No, I don't."
-    new "Tidak, aku tidak suka."
+    new "Tidak, saya tidak suka."
 
     # game/tutorial_quickstart.rpy:589
     old "What's your name?"

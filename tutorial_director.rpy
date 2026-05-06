@@ -46,7 +46,7 @@ translate indonesian director_62734181:
 translate indonesian director_aec4c7d4:
 
     # e "You'll need to make your own project, and try it out there. But I can tell you how to use it."
-    e "Kamu perlu membuat project mu sendiri, dan mencobanya di sana. Tapi aku akan memberitahumu cara menggunakannya"
+    e "Kamu perlu membuat project mu sendiri, dan mencobanya di sana. Tapi saya akan memberitahumu cara menggunakannya"
 
 # game/tutorial_director.rpy:29
 translate indonesian director_453d4d67:
@@ -94,7 +94,7 @@ translate indonesian director_292d58b5:
 translate indonesian director_c875c1a7:
 
     # e "You can edit or remove statements with the pencil icon. You can move me to the right by editing the show statement, then clicking '(transform)', 'right', and 'Change'."
-    e "Kamu bisa mengedit atau menghapus pernyataan menggunakan icon pensil. Kamu bisa memindahkan aku ke kanan dengan mengedit 'pernyataan tampilkan' (show statement), lalu mengklik '(transform)', 'kanan'(right), dan 'ubah'(Change)."
+    e "Kamu bisa mengedit atau menghapus pernyataan menggunakan icon pensil. Kamu bisa memindahkan saya ke kanan dengan mengedit 'pernyataan tampilkan' (show statement), lalu mengklik '(transform)', 'kanan'(right), dan 'ubah'(Change)."
 
 # game/tutorial_director.rpy:54
 translate indonesian director_4e04a74e:
@@ -106,7 +106,7 @@ translate indonesian director_4e04a74e:
 translate indonesian director_1364b336:
 
     # l "Finally, I get some more screen time!"
-    l "Akhirnya, Aku dapat lebih banyak waktu di layar!."
+    l "Akhirnya, saya dapat lebih banyak waktu di layar!."
 
 # game/tutorial_director.rpy:69
 translate indonesian director_c6dd0c81:
@@ -124,5 +124,5 @@ translate indonesian director_9d03b14b:
 translate indonesian director_dbfa07b2:
 
     # e "I hope these tools make developing your visual novel that much easier."
-    e "Aku harap alat-alat (tools) ini akan mempermudah pengembangan visual novel mu."
+    e "Saya harap alat-alat (tools) ini akan mempermudah pengembangan visual novel mu."
 

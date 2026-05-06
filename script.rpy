@@ -10,7 +10,7 @@ translate indonesian start_0e6a5bb4:
 translate indonesian start_d3abb53c:
 
     # e "In this tutorial, we'll teach you the basics of Ren'Py, so you can make games of your own. We'll also demonstrate many features, so you can see what Ren'Py is capable of."
-    e "Dalam tutorial ini, kami akan mengajarkan dasar-dasar Ren'Py agar Anda dapat membuat game sendiri. Kami juga akan mendemonstrasikan berbagai fitur, sehingga Anda bisa melihat kemampuan Ren'Py."
+    e "Dalam tutorial ini, kami akan mengajarkan dasar-dasar Ren'Py agar kamu dapat membuat game sendiri. Kami juga akan mendemonstrasikan berbagai fitur, sehingga kamu bisa melihat kemampuan Ren'Py."
 
 # game/script.rpy:203
 translate indonesian end_b2482727:
@@ -22,13 +22,13 @@ translate indonesian end_b2482727:
 translate indonesian end_38362e36:
 
     # e "If you'd like to see a full Ren'Py game, select \"The Question\" in the launcher."
-    e "Jika Anda ingin melihat contoh game Ren'Py yang utuh, pilih \"The Question\" di launcher."
+    e "Jika kamu ingin melihat contoh game Ren'Py yang utuh, pilih \"The Question\" di launcher."
 
 # game/script.rpy:207
 translate indonesian end_02527d05:
 
     # e "You can download new versions of Ren'Py from {a=https://www.renpy.org/}https://www.renpy.org/{/a}. For help and discussion, check out the {a=https://lemmasoft.renai.us/forums/}Lemma Soft Forums{/a}."
-    e "Anda dapat mengunduh versi terbaru Ren'Py di {a=https://www.renpy.org/}https://www.renpy.org/{/a}. Untuk bantuan dan diskusi, silakan kunjungi {a=https://lemmasoft.renai.us/forums/}Forum Lemma Soft{/a}."
+    e "Kamu dapat mengunduh versi terbaru Ren'Py di {a=https://www.renpy.org/}https://www.renpy.org/{/a}. Untuk bantuan dan diskusi, silakan kunjungi {a=https://lemmasoft.renai.us/forums/}Forum Lemma Soft{/a}."
 
 # game/script.rpy:209
 translate indonesian end_c9d03136:
@@ -46,7 +46,7 @@ translate indonesian end_762dc07a:
 translate indonesian end_a634d396:
 
     # e "We look forward to seeing what you create with Ren'Py. Have fun!"
-    e "Kami menantikan karya yang akan Anda buat dengan Ren'Py. Selamat bersenang-senang!"
+    e "Kami menantikan karya yang akan kamu buat dengan Ren'Py. Selamat bersenang-senang!"
 
 translate indonesian strings:
 
@@ -172,10 +172,10 @@ translate indonesian strings:
 
     # game/script.rpy:166
     old "What would you like to see?"
-    new "Apa yang ingin Anda lihat?"
+    new "Apa yang ingin kamu lihat?"
 
     # game/script.rpy:168
     old "Is there anything else you'd like to see?"
-    new "Apakah ada hal lain yang ingin Anda lihat?"
+    new "Apakah ada hal lain yang ingin kamu lihat?"
 
     

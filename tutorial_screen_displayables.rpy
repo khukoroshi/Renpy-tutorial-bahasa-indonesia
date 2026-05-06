@@ -3,8 +3,8 @@
 # game/tutorial_screen_displayables.rpy:3
 translate indonesian screen_displayables_7c897a6d:
 
-    # e "Ada cukup banyak displayable layar. Di sini, aku akan memberitahumu tentang beberapa yang paling penting."
-    e "Ada cukup banyak displayable layar. Di sini, aku akan memberitahumu tentang beberapa yang paling penting."
+    # e "Ada cukup banyak displayable layar. Di sini, saya akan memberitahumu tentang beberapa yang paling penting."
+    e "Ada cukup banyak displayable layar. Di sini, saya akan memberitahumu tentang beberapa yang paling penting."
 
 # game/tutorial_screen_displayables.rpy:11
 translate indonesian screen_displayables_menu_fef7b441:
@@ -15,8 +15,8 @@ translate indonesian screen_displayables_menu_fef7b441:
 # game/tutorial_screen_displayables.rpy:49
 translate indonesian screen_displayable_properties_76c5639a:
 
-    # e "Ada beberapa properti yang dimiliki oleh setiap displayable bahasa layar. Di sini, aku akan mendemonstrasikannya untukmu."
-    e "Ada beberapa properti yang dimiliki oleh setiap displayable bahasa layar. Di sini, aku akan mendemonstrasikannya untukmu."
+    # e "Ada beberapa properti yang dimiliki oleh setiap displayable bahasa layar. Di sini, saya akan mendemonstrasikannya untukmu."
+    e "Ada beberapa properti yang dimiliki oleh setiap displayable bahasa layar. Di sini, saya akan mendemonstrasikannya untukmu."
 
 # game/tutorial_screen_displayables.rpy:57
 translate indonesian screen_displayable_properties_527d4b4e:
@@ -243,8 +243,8 @@ translate indonesian window_displayables_495d332b:
 # game/tutorial_screen_displayables.rpy:417
 translate indonesian window_displayables_2c0565ab:
 
-    # e "Tapi ketika aku menambahkan latar belakang, itu jauh lebih mudah. Itulah mengapa ada dua displayable yang dimaksudkan untuk memberikan latar belakang pada elemen antarmuka pengguna."
-    e "Tapi ketika aku menambahkan latar belakang, itu jauh lebih mudah. Itulah mengapa ada dua displayable yang dimaksudkan untuk memberikan latar belakang pada elemen antarmuka pengguna."
+    # e "Tapi ketika saya menambahkan latar belakang, itu jauh lebih mudah. Itulah mengapa ada dua displayable yang dimaksudkan untuk memberikan latar belakang pada elemen antarmuka pengguna."
+    e "Tapi ketika saya menambahkan latar belakang, itu jauh lebih mudah. Itulah mengapa ada dua displayable yang dimaksudkan untuk memberikan latar belakang pada elemen antarmuka pengguna."
 
 # game/tutorial_screen_displayables.rpy:419
 translate indonesian window_displayables_c7d0968c:
@@ -255,8 +255,8 @@ translate indonesian window_displayables_c7d0968c:
 # game/tutorial_screen_displayables.rpy:423
 translate indonesian window_displayables_7d843f62:
 
-    # e "Di sisi lain, displayable window sangat spesifik. Ini digunakan untuk menyediakan jendela teks. Jika kamu membaca apa yang aku katakan, kamu sedang melihat jendela teks sekarang."
-    e "Di sisi lain, displayable window sangat spesifik. Ini digunakan untuk menyediakan jendela teks. Jika kamu membaca apa yang aku katakan, kamu sedang melihat jendela teks sekarang."
+    # e "Di sisi lain, displayable window sangat spesifik. Ini digunakan untuk menyediakan jendela teks. Jika kamu membaca apa yang saya katakan, kamu sedang melihat jendela teks sekarang."
+    e "Di sisi lain, displayable window sangat spesifik. Ini digunakan untuk menyediakan jendela teks. Jika kamu membaca apa yang saya katakan, kamu sedang melihat jendela teks sekarang."
 
 # game/tutorial_screen_displayables.rpy:425
 translate indonesian window_displayables_de5963e4:
@@ -405,8 +405,8 @@ translate indonesian bar_displayables_11cf8af2:
 # game/tutorial_screen_displayables.rpy:635
 translate indonesian imagemap_displayables_d62fad02:
 
-    # e "Imagemap menggunakan dua gambar atau lebih untuk menampilkan tombol dan bar. Izinkan aku mulai dengan menunjukkan contoh imagemap yang sedang beraksi."
-    e "Imagemap menggunakan dua gambar atau lebih untuk menampilkan tombol dan bar. Izinkan aku mulai dengan menunjukkan contoh imagemap yang sedang beraksi."
+    # e "Imagemap menggunakan dua gambar atau lebih untuk menampilkan tombol dan bar. Izinkan saya mulai dengan menunjukkan contoh imagemap yang sedang beraksi."
+    e "Imagemap menggunakan dua gambar atau lebih untuk menampilkan tombol dan bar. Izinkan saya mulai dengan menunjukkan contoh imagemap yang sedang beraksi."
 
 # game/tutorial_screen_displayables.rpy:657
 translate indonesian swimming_405542a5:
@@ -417,8 +417,8 @@ translate indonesian swimming_405542a5:
 # game/tutorial_screen_displayables.rpy:659
 translate indonesian swimming_264b5873:
 
-    # e "Berenang sepertinya sangat menyenangkan, tapi aku tidak membawa baju renang."
-    e "Berenang sepertinya sangat menyenangkan, tapi aku tidak membawa baju renang."
+    # e "Berenang sepertinya sangat menyenangkan, tapi saya tidak membawa baju renang."
+    e "Berenang sepertinya sangat menyenangkan, tapi saya tidak membawa baju renang."
 
 # game/tutorial_screen_displayables.rpy:665
 translate indonesian science_83e5c0cc:
@@ -459,8 +459,8 @@ translate indonesian imagemap_done_48eca0a4:
 # game/tutorial_screen_displayables.rpy:691
 translate indonesian imagemap_done_a60635a1:
 
-    # e "Untuk mendemonstrasikan bagaimana imagemap disusun, aku akan menunjukkan lima gambar yang membentuk imagemap yang lebih kecil."
-    e "Untuk mendemonstrasikan bagaimana imagemap disusun, aku akan menunjukkan lima gambar yang membentuk imagemap yang lebih kecil."
+    # e "Untuk mendemonstrasikan bagaimana imagemap disusun, saya akan menunjukkan lima gambar yang membentuk imagemap yang lebih kecil."
+    e "Untuk mendemonstrasikan bagaimana imagemap disusun, saya akan menunjukkan lima gambar yang membentuk imagemap yang lebih kecil."
 
 # game/tutorial_screen_displayables.rpy:697
 translate indonesian imagemap_done_ac9631ef:
@@ -591,8 +591,8 @@ translate indonesian viewport_displayables_778668c8:
 # game/tutorial_screen_displayables.rpy:820
 translate indonesian viewport_displayables_bbd63377:
 
-    # e "Saat aku memberikan properti edgescroll pada viewport, viewport akan menggulir secara otomatis saat mouse berada di dekat tepinya. Kedua angka tersebut adalah ukuran tepi, dan kecepatan dalam piksel per detik."
-    e "Saat aku memberikan properti edgescroll pada viewport, viewport akan menggulir secara otomatis saat mouse berada di dekat tepinya. Kedua angka tersebut adalah ukuran tepi, dan kecepatan dalam piksel per detik."
+    # e "Saat saya memberikan properti edgescroll pada viewport, viewport akan menggulir secara otomatis saat mouse berada di dekat tepinya. Kedua angka tersebut adalah ukuran tepi, dan kecepatan dalam piksel per detik."
+    e "Saat saya memberikan properti edgescroll pada viewport, viewport akan menggulir secara otomatis saat mouse berada di dekat tepinya. Kedua angka tersebut adalah ukuran tepi, dan kecepatan dalam piksel per detik."
 
 # game/tutorial_screen_displayables.rpy:839
 translate indonesian viewport_displayables_7c4678ee:

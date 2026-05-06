@@ -4,7 +4,7 @@
 translate indonesian tutorial_playing_2985ab86:
 
     # e "As someone who has played more than a few visual novels, there are many features that I expect all games to have."
-    e "Sebagai sesorang yang telah banyak memainkan cukup banyak visual novel, ada banyak fitur yang aku harapkan dimiliki oleh semua game."
+    e "Sebagai sesorang yang telah banyak memainkan cukup banyak visual novel, ada banyak fitur yang saya harapkan dimiliki oleh semua game."
 
 # game/tutorial_playing.rpy:13
 translate indonesian tutorial_playing_ca4769bb:
